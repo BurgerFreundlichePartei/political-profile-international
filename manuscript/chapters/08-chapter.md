@@ -3,7 +3,7 @@
 
 **(Master-Version, Teil 1 – Grundlegung & Perspektivwechsel)**
 
-* * *
+---
 
 ### **8.0 Einleitung: Warum der Bürger im modernen Staat falsch verortet ist**
 
@@ -23,7 +23,7 @@ sondern **beauftragte Funktionen** innerhalb eines Systems, das den Bürgern geh
 Dieser Perspektivwechsel ist leise, aber radikal. Er verändert, wie Verantwortung, Macht, Kontrolle und Teilhabe gedacht
 werden.
 
-* * *
+---
 
 ### **8.1 Eigentum als politischer Begriff – jenseits von Besitz**
 
@@ -44,7 +44,7 @@ sich, als gehörte ihnen das System. Kontrolle wird als Störung empfunden. Der 
 Das Politische Profil korrigiert diese Verzerrung, indem es Eigentum klar definiert: **Eigentum liegt dort, wo die
 ultimative Legitimation liegt. Und die liegt beim Bürger.**
 
-* * *
+---
 
 ### **8.2 Warum Wahlen allein kein Eigentum begründen**
 
@@ -64,7 +64,7 @@ zu bewerten und zu korrigieren.
 
 Erst diese Kombination erzeugt echtes Eigentum.
 
-* * *
+---
 
 ### **8.3 Der Unterschied zwischen Beteiligung und Eigentümerschaft**
 
@@ -83,7 +83,7 @@ Das verändert die Haltung auf allen Ebenen. Politik argumentiert anders, wenn s
 eigentümerseitig rechenschaftspflichtig ist. Kontrolle gewinnt an Legitimität, weil sie nicht abstrakt, sondern
 bürgerbezogen agiert.
 
-* * *
+---
 
 ### **8.4 Verantwortung kehrt zurück zum Bürger – ohne Überforderung**
 
@@ -103,7 +103,7 @@ bleibt.
 
 Verantwortung wird so vom emotionalen Dauerzustand zur strukturellen Option.
 
-* * *
+---
 
 ### **8.5 Der psychologische Effekt von Eigentümerschaft**
 
@@ -125,7 +125,7 @@ Staat fundamental.
 
 Der Staat wird nicht mehr als Gegner wahrgenommen, sondern als **gemeinsames Projekt**.
 
-* * *
+---
 
 ### **8.6 Eigentum ohne Kontrolle ist Illusion**
 
@@ -139,7 +139,7 @@ Kapitel 8 baut deshalb bewusst auf der Kontrollarchitektur auf. Der Bürger ist 
 **derjenige, dem die Kontrolle letztlich verpflichtet ist**. Dadurch entsteht eine klare Linie: Kontrolle dient nicht
 sich selbst, nicht der Politik, nicht der Verwaltung – sondern dem Eigentümer des Systems.
 
-* * *
+---
 
 ### **8.7 Ausblick auf den nächsten Teil**
 
@@ -152,7 +152,7 @@ Im nächsten Teil dieses Kapitels gehen wir einen Schritt weiter. Wir klären, *
 
 Dabei bleiben wir im selben narrativen Ton – ruhig, präzise, ohne Aufzählungsinflation.
 
-* * *
+---
 
 ### **8.8 Eigentümerschaft verändert politische Legitimation grundlegend**
 
@@ -170,7 +170,7 @@ nachvollziehbar?“.
 
 Politik verliert dadurch keine Legitimität – sie gewinnt eine zweite, tiefere Ebene hinzu.
 
-* * *
+---
 
 ### **8.9 Machtbindung ohne Populismus**
 
@@ -188,7 +188,7 @@ Eigentümerschaft wirkt indirekt, zeitversetzt und strukturell. Sie verändert R
 Gerade dadurch wird das System widerstandsfähiger gegen emotionale Übersteuerung. Bürger können Druck ausüben, ohne das
 System zu destabilisieren. Politik bleibt handlungsfähig, ohne unkontrolliert zu agieren.
 
-* * *
+---
 
 ### **8.10 Warum Eigentümerschaft Verantwortung erzeugt – nicht Beliebigkeit**
 
@@ -203,7 +203,7 @@ Diese Form von Verantwortung ist leiser als moralische Appelle, aber nachhaltige
 nur Einsicht. Bürger müssen nicht besser sein – das System zwingt sie nicht dazu. Es macht nur deutlich, dass Stabilität
 und Freiheit keine Gegensätze sind, sondern voneinander abhängen.
 
-* * *
+---
 
 ### **8.11 Der Bürger als Referenzpunkt, nicht als Mikro-Entscheider**
 
@@ -220,7 +220,7 @@ aber zuverlässig.
 
 So entsteht eine Form von Macht, die nicht laut ist, aber dauerhaft wirkt.
 
-* * *
+---
 
 ### **8.12 Vertrauen als systemisches Nebenprodukt**
 
@@ -237,7 +237,7 @@ das Vertrauen, das aus Charisma oder kurzfristigem Erfolg entsteht.
 Ein Staat, der auf Eigentümerschaft basiert, braucht weniger Vertrauen – weil er weniger Vertrauen voraussetzt. Er
 funktioniert auch dann, wenn Skepsis vorhanden ist.
 
-* * *
+---
 
 ### **8.13 Die Grenze der Eigentümerschaft: Warum nicht alles öffentlich sein kann**
 
@@ -251,7 +251,7 @@ gehandelt wird und **wer wofür verantwortlich ist**.
 Diese Unterscheidung ist entscheidend. Sie verhindert sowohl Geheimniskrämerei als auch naive Offenheit.
 Eigentümerschaft bedeutet nicht totale Sichtbarkeit, sondern **begründete Nachvollziehbarkeit**.
 
-* * *
+---
 
 ### **8.14 Eigentümerschaft als kultureller Wandel**
 
@@ -266,7 +266,7 @@ anders geführt – weniger existenziell, weniger zerstörerisch.
 Eigentümerschaft ersetzt Feindbilder durch Verantwortungszusammenhänge. Sie macht Politik weniger dramatisch, aber
 belastbarer.
 
-* * *
+---
 
 ### **8.15 Ausblick auf Teil 3**
 
@@ -274,7 +274,7 @@ Im nächsten Teil schließen wir das Kapitel, indem wir den Bürger als Eigentü
 Wir zeigen, wie sich Eigentümerschaft konkret mit Politik, Verwaltung und Kontrolle verzahnt – und warum dieses
 Zusammenspiel der eigentliche Kern des Politischen Profils ist.
 
-* * *
+---
 
 ### **8.16 Eigentümerschaft als verbindendes Prinzip des gesamten Systems**
 
@@ -292,7 +292,7 @@ ihm werden sie kohärent.
 Das Politische Profil ist deshalb kein Staatsmodell im klassischen Sinne, sondern ein **Eigentumsmodell**. Es beschreibt
 nicht, wie Macht ausgeübt wird, sondern wem das System gehört, in dem Macht ausgeübt wird.
 
-* * *
+---
 
 ### **8.17 Warum Eigentümerschaft Stabilität erzeugt, ohne Starrheit zu erzwingen**
 
@@ -307,7 +307,7 @@ Im Politischen Profil bedeutet das: Reformen werden seltener emotional, aber hä
 Druck oder Empörung, sondern aus sichtbaren strukturellen Defiziten. Eigentümerschaft verschiebt den Reformimpuls von
 der Straße in die Architektur.
 
-* * *
+---
 
 ### **8.18 Die Rückkehr von Maß und Proportion in politische Entscheidungen**
 
@@ -322,7 +322,7 @@ gewinnen an Gewicht.
 Das Politische Profil erzwingt diesen Perspektivwechsel nicht moralisch. Es macht ihn **naheliegend**. Wer Eigentum
 trägt, denkt automatisch in Proportionen. Nicht, weil er altruistischer ist, sondern weil Konsequenzen sichtbar werden.
 
-* * *
+---
 
 ### **8.19 Der Staat als gemeinsames Projekt – ohne Romantisierung**
 
@@ -336,7 +336,7 @@ handhabbar, weil sie sich auf ein gemeinsames Fundament beziehen.
 Der Staat wird dadurch nicht „freundlicher“, aber **berechenbarer**. Und Berechenbarkeit ist eine unterschätzte Form von
 Freiheit.
 
-* * *
+---
 
 ### **8.20 Die Grenze zwischen Staat und Gesellschaft wird klarer**
 

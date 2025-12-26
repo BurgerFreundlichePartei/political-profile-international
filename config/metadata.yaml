@@ -1,16 +1,49 @@
-title: "Das Politische Profil – Ein universelles Governance-Architektur-Framework"
-subtitle: ""
+title: "Wie Staaten tragfähig gebaut werden"
+subtitle: "Ein universelles Architekturmodell politischer Ordnung"
+series: "Das politische Profil – Die Architektur der Freiheit"
+volume: 4
 author: "Asterios Raptis"
+
 isbn:
   ebook: ""
   paperback: ""
   hardcover: ""
-edition: "1"
-publisher: ""
+
+edition: "1. Auflage"
+publisher: "Conscious Path Publishing"
 date: "2025"
-language: "en"
-description: "A neutral, modular, and globally applicable governance framework—the Political Profile—designed as a technical blueprint for modern, citizen-centered states. It provides institutions with a scalable architecture for efficient, transparent, and resilient governance, independent of ideology, culture, or political system."
-keywords: []
+language: "de"
+
+description: >
+  Dieses Buch formuliert das Politische Profil als universelles,
+  ideologiefreies Architekturmodell für staatliche Ordnung.
+  Es beschreibt Staaten nicht als moralische oder politische Projekte,
+  sondern als gebaute Systeme aus Macht, Struktur, Kontrolle,
+  Identität, Eigentümerschaft und Lernfähigkeit.
+  Der Fokus liegt nicht auf politischen Inhalten,
+  sondern auf der Frage, wie staatliche Systeme
+  tragfähig, anpassungsfähig und verantwortbar gestaltet werden können –
+  unabhängig von Kultur, Ideologie oder Regierungsform.
+
+keywords:
+  - politische Architektur
+  - Staatsarchitektur
+  - Governance Framework
+  - Systemdesign Staat
+  - Macht und Kontrolle
+  - institutionelle Lernfähigkeit
+  - Eigentümerschaft Bürger
+  - Identitätsarchitektur
+  - staatliche Resilienz
+  - Governance jenseits Ideologie
+  - Meta-Governance
+  - politisches Profil
+
 cover_image: "assets/covers/cover.png"
-output_formats: ["pdf", "epub", "docx"]
+
+output_formats: [ "pdf", "epub", "docx" ]
+
 kdp_enabled: false
+
+css:
+  - config/styles.css

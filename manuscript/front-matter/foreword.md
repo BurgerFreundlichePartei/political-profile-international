@@ -87,8 +87,8 @@ Ein politischer Architekt im 21. Jahrhundert muss Disziplinen verbinden, die fr�
 - Organisationspsychologie
 - Sicherheitsarchitektur
 
-Der moderne Staat ist kein philosophisches Objekt mehr – er ist ein **System**, ein **Netzwerk**, eine *
-*Infrastrukturleistung**.
+Der moderne Staat ist kein philosophisches Objekt mehr – er ist ein **System**, ein **Netzwerk**, eine 
+**Infrastrukturleistung**.
 
 Ein moderner politischer Architekt muss deshalb:
 

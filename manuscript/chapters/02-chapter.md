@@ -11,8 +11,8 @@ freier Staat, sondern ein handlungsunfähiger.
 
 In vielen politischen Debatten wird Macht jedoch so behandelt, als ließe sie sich moralisch neutralisieren. Solange sie
 demokratisch legitimiert sei, gelte sie als unproblematisch. Erst ihr offener Missbrauch werde zur Gefahr. Diese
-Sichtweise verkennt, dass Macht nicht erst dort wirksam wird, wo sie böse Absichten verfolgt, sondern dort, wo sie *
-*ungeformt** bleibt. Macht wird gefährlich, wenn sie keine klare architektonische Gestalt hat.
+Sichtweise verkennt, dass Macht nicht erst dort wirksam wird, wo sie böse Absichten verfolgt, sondern dort, wo sie 
+**ungeformt** bleibt. Macht wird gefährlich, wenn sie keine klare architektonische Gestalt hat.
 
 Dieses Kapitel betrachtet Macht daher nicht als moralisches Risiko, sondern als **architektonisches Phänomen**. Nicht
 die Frage nach Gut oder Böse steht im Zentrum, sondern die Frage nach Form, Sichtbarkeit und Begrenzung.

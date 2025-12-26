@@ -63,8 +63,8 @@ Architektur. Dort sind sie bearbeitbar, weil sie veränderbar sind.
 ### **Pluralität benötigt Struktur**
 
 Pluralität ist kein Selbstläufer. Unterschiedliche Lebensentwürfe, Überzeugungen und Identitäten können nur dann
-koexistieren, wenn ein gemeinsamer Rahmen existiert. Dieser Rahmen darf Identität nicht normieren, muss sie aber *
-*ermöglichen**.
+koexistieren, wenn ein gemeinsamer Rahmen existiert. Dieser Rahmen darf Identität nicht normieren, muss sie aber 
+**ermöglichen**.
 
 Ohne Struktur wird Pluralität instabil. Sie kippt entweder in Fragmentierung oder in Dominanzkonflikte. Gruppen
 konkurrieren um Anerkennung, weil keine übergeordnete Ordnung existiert, die Zugehörigkeit unabhängig von Identität
