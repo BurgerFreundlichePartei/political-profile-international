@@ -18,10 +18,10 @@ from scripts.validate_format import (
 )
 
 # replace with your data
-DEFAULT_METADATA = """title: 'CHANGE TO YOUR TITLE'
-author: 'YOUR NAME'
+DEFAULT_METADATA = """title: 'Wie Staaten tragfähig gebaut werden'
+author: 'Asterios Raptis'
 date: '2025'
-lang: 'en'
+lang: 'de'
 """
 
 # Change the current working directory to the root directory of the project
@@ -233,12 +233,11 @@ def ensure_metadata_file():
         print(f"⚠️ Metadata file missing! Creating default {METADATA_FILE}.")
         os.makedirs(os.path.dirname(METADATA_FILE), exist_ok=True)
         with open(METADATA_FILE, "w", encoding="utf-8") as f:
-            # TODO replace with your data
             f.write(
-                'title: "CHANGE TO YOUR TITLE"\n'
-                'author: "YOUR NAME"\n'
+                'title: "Wie Staaten tragfähig gebaut werden"\n'
+                'author: "Asterios Raptis"\n'
                 'date: "2025"\n'
-                'lang: "en"\n'
+                'lang: "de"\n'
             )
 
 
