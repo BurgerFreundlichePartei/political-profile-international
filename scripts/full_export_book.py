@@ -35,7 +35,7 @@ OUTPUT_DIR = "./output"  # Output directory for compiled formats
 BACKUP_DIR = "./output_backup"  # Backup location for previous output
 # Set to None to derive from pyproject.toml automatically.
 # Set a string to override the output file base name manually.
-OUTPUT_FILE = ""
+OUTPUT_FILE = "band_4_das_politische_profil"
 LOG_FILE = "export.log"  # Log file for script and Pandoc output/errors
 
 # Supporting script paths

@@ -1,4 +1,4 @@
-## Kapitel 7 – Eigentümerschaft ohne Mandat bleibt Fiktion
+# Kapitel 7 – Eigentümerschaft ohne Mandat bleibt Fiktion
 
 ### Warum Demokratie mehr als Beteiligung braucht
 

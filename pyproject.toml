@@ -72,6 +72,7 @@ shortcuts-init = "scripts.shortcuts_init:main"
 shortcuts-translate = "scripts.shortcuts_translate:main"
 export-comic = "scripts.full_export_comic:main"
 shortcuts-export-comic = "scripts.shortcuts_export_comic:main"
+build-toc = "scripts.build_toc_from_chapters:main"
 
 # 🏁 Export Comic Shortcuts
 export-comic-html = "scripts.shortcuts_export_comic:export_comic_html"
