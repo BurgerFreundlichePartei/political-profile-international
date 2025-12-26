@@ -18,7 +18,7 @@ from scripts.validate_format import (
 )
 
 # replace with your data
-DEFAULT_METADATA = """title: 'Wie Staaten tragfähig gebaut werden'
+DEFAULT_METADATA = """title: 'Das Politische Profil – Wie Staaten tragfähig gebaut werden'
 author: 'Asterios Raptis'
 date: '2025'
 lang: 'de'
@@ -234,7 +234,7 @@ def ensure_metadata_file():
         os.makedirs(os.path.dirname(METADATA_FILE), exist_ok=True)
         with open(METADATA_FILE, "w", encoding="utf-8") as f:
             f.write(
-                'title: "Wie Staaten tragfähig gebaut werden"\n'
+                'title: "Das Politische Profil – Wie Staaten tragfähig gebaut werden"\n'
                 'author: "Asterios Raptis"\n'
                 'date: "2025"\n'
                 'lang: "de"\n'
