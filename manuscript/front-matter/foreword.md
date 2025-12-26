@@ -49,8 +49,6 @@ Institutionen verwenden können, wenn sie ihre Governance modernisieren oder neu
 Es ergänzt die klassischen Theorien nicht, indem es sie interpretiert, sondern indem es ihre Lücken schließt:  
 Es bietet das, was ihnen fehlt – eine **konstruierbare, modulare, anpassbare Architektur**.
 
----
-
 ### **Politische Architektur im historischen Vergleich**
 
 | Denker / Architekt | Art der Architektur        | Stärken                | Grenzen                | Relevanz für modernes Governance-Design |
@@ -70,8 +68,6 @@ Es bietet das, was ihnen fehlt – eine **konstruierbare, modulare, anpassbare A
 Diese Denker liefern **Bausteine**, aber kein vollständiges **Konstruktionshandbuch** für Staaten des 21.
 Jahrhunderts.  
 Dieses Werk beginnt dort, wo ihre Modelle enden.
-
----
 
 ### **Die Rolle eines modernen politischen Architekten**
 
@@ -102,8 +98,6 @@ Ein moderner politischer Architekt muss deshalb:
 
 Dieses Werk folgt genau diesem Ansatz.
 
----
-
 ### **Für wen dieses Werk geschrieben ist**
 
 Dieses Buch richtet sich an jene, die Governance gestalten, analysieren, verbessern oder modernisieren.  
@@ -130,8 +124,6 @@ Es ist ein **Instrument**, kein Pamphlet, und verlangt deshalb eine Leserschaft,
 6. **Anspruchsvolle Bürger**  
    Selbstselektierende Leser, die strukturelle Politik begreifen wollen, nicht tagespolitische Konflikte.
 
----
-
 ### **Worauf dieses Werk bewusst verzichtet**
 
 - ideologische Positionierung
@@ -143,10 +135,6 @@ Es ist ein **Instrument**, kein Pamphlet, und verlangt deshalb eine Leserschaft,
 Dieses Werk ist ein **Framework**, ein **Baukasten**, ein **Referenzmodell**.  
 Es beschreibt, **wie ein Staat funktionieren kann**, nicht **wie er politisch sein soll**.
 
----
-
 Dieses Vorwort bildet die Grundlage für das gesamte Governance-Framework.  
 Es klärt den Kontext, die theoretische Lücke, die historische Einordnung, die Zielgruppe und die Rolle dieses Werkes.  
 Mit **Kapitel 1** beginnt nun die eigentliche Architektur.
-
---- 

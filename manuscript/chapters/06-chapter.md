@@ -13,8 +13,6 @@ ist, wird kulturell ausgetragen. Konflikte, die eigentlich systemisch sind, ersc
 Das Politische Profil setzt genau hier an. Es betrachtet Identität nicht primär als kulturelles oder emotionales
 Phänomen, sondern als **Systemfrage**. Identität wird politisch relevant, wenn sie strukturell nicht verankert ist.
 
----
-
 ### **Die Verwechslung von Identität und Rolle**
 
 Ein zentraler Fehler moderner Politik liegt in der Vermischung von Identität und Rolle. Identität beschreibt, wer jemand
@@ -27,8 +25,6 @@ sind, wird Identität politisch überhöht. Sie muss dann leisten, was eigentlic
 
 Das Politische Profil trennt diese Ebenen bewusst. Es verankert Zugehörigkeit über Rollen und Mandate, nicht über
 kulturelle Zuschreibungen. Identität bleibt individuell, Rolle wird systemisch.
-
----
 
 ### **Wenn Zugehörigkeit nicht strukturell geklärt ist**
 
@@ -43,8 +39,6 @@ Das Politische Profil begegnet diesem Problem, indem es Zugehörigkeit funktiona
 Selbstbeschreibung entscheiden über politische Rolle, sondern klar benannte Kriterien innerhalb der Architektur. Dadurch
 wird Zugehörigkeit stabil, ohne homogen zu werden.
 
----
-
 ### **Identität als Projektionsfläche politischer Defizite**
 
 Wo Systeme überfordert sind, wird Identität zur Projektionsfläche. Unzufriedenheit, Kontrollverlust und institutionelles
@@ -57,8 +51,6 @@ Gestaltungsfähigkeit.
 
 Das Politische Profil entzieht Identität diese Überlastung. Es verschiebt Konflikte zurück auf die Ebene der
 Architektur. Dort sind sie bearbeitbar, weil sie veränderbar sind.
-
----
 
 ### **Pluralität benötigt Struktur**
 
@@ -73,8 +65,6 @@ sichert.
 Das Politische Profil versteht Struktur als Voraussetzung von Pluralität. Es schafft einen gemeinsamen architektonischen
 Rahmen, in dem Unterschiedlichkeit nicht politisiert werden muss, um sichtbar zu sein.
 
----
-
 ### **Identität und politische Verantwortung**
 
 Ein weiterer Effekt struktureller Unklarheit liegt in der Verschiebung von Verantwortung. Wo Rollen unklar sind, wird
@@ -87,8 +77,6 @@ wird moralisch zugeschrieben, nicht funktional verankert.
 Das Politische Profil koppelt Verantwortung konsequent an Rolle und Mandat. Identität spielt für Verantwortung keine
 Rolle. Dadurch wird politische Verantwortung entemotionalisiert und präzisiert.
 
----
-
 ### **Warum Identität ohne Architektur eskaliert**
 
 Identitätskonflikte eskalieren nicht, weil Identität wichtig ist, sondern weil Architektur fehlt. Wo Zugehörigkeit,
@@ -97,8 +85,6 @@ Individuen, aber nicht für die Funktionsfähigkeit des Systems.
 
 Das Politische Profil macht diesen Zusammenhang sichtbar. Es zeigt, dass Identität politisch nur dort explosiv wird, wo
 sie strukturelle Aufgaben übernehmen muss. Wird sie davon entlastet, verliert sie ihre konfliktverschärfende Wirkung.
-
----
 
 ### **Warum dieses Kapitel notwendig ist**
 
@@ -110,5 +96,3 @@ ist zentral für individuelle Würde, aber ungeeignet als Grundlage politischer 
 gelingt, kann Pluralität stabil organisiert werden.
 
 Alles, was folgt, insbesondere die Kapitel zu Eigentümerschaft und Mandat, baut auf diesem Verständnis auf.
-
----

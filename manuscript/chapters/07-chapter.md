@@ -13,8 +13,6 @@ erzeugt Erwartungen, ohne strukturelle Wirkung zu entfalten.
 Das Politische Profil setzt deshalb an einem anderen Punkt an. Es verschiebt den Fokus von Beteiligung zu
 Eigentümerschaft. Nicht die Frage, wer spricht, ist entscheidend, sondern die Frage, **wem das System gehört**.
 
----
-
 ### **Die Verwechslung von Beteiligung und Auftraggeberschaft**
 
 In vielen politischen Systemen wird Beteiligung mit Auftraggeberschaft verwechselt. Bürger dürfen sich äußern, wählen
@@ -29,8 +27,6 @@ Das Politische Profil trennt diese Ebenen bewusst. Auftraggeberschaft bedeutet n
 Entscheidungen, sondern strukturelle Eigentümerschaft am System selbst. Wer Auftraggeber ist, definiert Rahmen, Ziele
 und Grenzen. Beteiligung ist nachgeordnet.
 
----
-
 ### **Eigentümerschaft als strukturelle Kategorie**
 
 Eigentümerschaft ist kein moralischer Anspruch, sondern eine strukturelle Kategorie. In funktionierenden Systemen ist
@@ -43,8 +39,6 @@ informelle Akteure diese Rolle.
 
 Das Politische Profil macht Eigentümerschaft explizit. Es verankert Bürger nicht als Konsumenten politischer Leistungen,
 sondern als Eigentümer der staatlichen Architektur. Diese Eigentümerschaft ist nicht symbolisch, sondern funktional.
-
----
 
 ### **Mandat als Verbindung zwischen Eigentum und Macht**
 
@@ -60,8 +54,6 @@ Das Politische Profil versteht das Mandat als zentrale Verbindung zwischen Bürg
 einmaliger Akt, sondern ein fortlaufendes Verhältnis. Mandate sind begrenzt, überprüfbar und widerrufbar. Sie schaffen
 Klarheit, ohne Handlungsfähigkeit zu blockieren.
 
----
-
 ### **Warum fehlende Mandate Politik verzerren**
 
 Wo Mandate unklar oder schwach sind, verzerrt sich politische Verantwortung. Akteure handeln innerhalb weiter
@@ -73,8 +65,6 @@ Akteuren ersetzt strukturelle Korrektur. Systeme lernen nicht, sondern reagieren
 
 Das Politische Profil begegnet diesem Problem, indem es Mandate präzise fasst. Es begrenzt Handlungsspielräume nicht
 willkürlich, sondern architektonisch. Dadurch wird Verantwortung wieder zuordenbar und überprüfbar.
-
----
 
 ### **Eigentümerschaft entlastet Politik**
 
@@ -88,8 +78,6 @@ Eigentümerschaft bleibt implizit, Mandate dehnbar. Das Ergebnis ist Unsicherhei
 Das Politische Profil verschiebt diese Last zurück in die Architektur. Politik handelt innerhalb klarer Mandate.
 Vertrauen entsteht nicht durch Rhetorik, sondern durch Verlässlichkeit der Struktur.
 
----
-
 ### **Eigentümerschaft und Verantwortung**
 
 Eigentümerschaft bedeutet Verantwortung. Wer Eigentümer ist, trägt die Folgen. Diese Verbindung ist im politischen Raum
@@ -101,8 +89,6 @@ Mittragen von Konsequenzen.
 
 Diese Perspektive verändert das Verhältnis zwischen Staat und Bürgern grundlegend. Sie macht politische Ordnung
 belastbarer, weil sie auf Verantwortung statt auf Erwartung basiert.
-
----
 
 ### **Warum dieses Kapitel den Kern berührt**
 

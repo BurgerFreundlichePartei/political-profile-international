@@ -15,8 +15,6 @@ Das Politische Profil setzt genau an diesem Punkt an. Es versteht Kontrolle nich
 als architektonische Stabilitätsfunktion. Kontrolle schützt nicht vor Menschen, sondern vor systemischen
 Fehlentwicklungen.
 
----
-
 ### **Die Verwechslung von Kontrolle und Überwachung**
 
 Ein zentraler Grund für die Ablehnung von Kontrolle liegt in ihrer begrifflichen Vermischung mit Überwachung.
@@ -31,8 +29,6 @@ Das Politische Profil trennt diese Ebenen bewusst. Kontrolle bezieht sich auf En
 Wirkungen. Sie macht sichtbar, ob ein System das leistet, was es leisten soll. Sie benötigt keine permanente Beobachtung
 von Individuen.
 
----
-
 ### **Warum fehlende Kontrolle Macht verzerrt**
 
 Wo Kontrolle fehlt oder unklar ist, verzerrt sich Macht. Entscheidungen entfalten Wirkungen, ohne dass Rückkopplung
@@ -45,8 +41,6 @@ aus, weil Fehler nicht als strukturelle Information genutzt werden.
 
 Das Politische Profil begreift Kontrolle deshalb als Voraussetzung von Lernfähigkeit. Ohne überprüfbare Wirkung kann
 kein System lernen. Ohne Lernen kann es sich nicht an veränderte Bedingungen anpassen.
-
----
 
 ### **Kontrolle als Teil der Architektur**
 
@@ -61,8 +55,6 @@ nachvollziehbar bleiben. Rückkopplung erfolgt kontinuierlich, nicht erst im Kri
 Diese Form von Kontrolle ist leise. Sie produziert keine Skandale, sondern Stabilität. Sie wirkt nicht repressiv,
 sondern ordnend.
 
----
-
 ### **Warum Vertrauen Kontrolle benötigt**
 
 Vertrauen wird oft als Alternative zu Kontrolle verstanden. Entweder man vertraut oder man kontrolliert. Diese
@@ -76,8 +68,6 @@ blind zu sein.
 Das Politische Profil versteht Vertrauen daher nicht als moralische Haltung, sondern als Systemeffekt. Es entsteht aus
 der Erfahrung verlässlicher Strukturen, nicht aus Appellen.
 
----
-
 ### **Die politische Überforderung durch fehlende Kontrolle**
 
 Fehlt strukturelle Kontrolle, wird Politik erneut überfordert. Sie soll dann im Nachhinein korrigieren, was
@@ -89,8 +79,6 @@ Kontrolle zu vermeiden, statt sie zu integrieren. Stabilität wird kurzfristig e
 
 Das Politische Profil entlastet Politik auch hier. Es verlagert Kontrolle von der politischen Auseinandersetzung in die
 Architektur. Politik muss Kontrolle nicht ständig neu begründen, weil sie strukturell vorgesehen ist.
-
----
 
 ### **Kontrolle ohne Moral**
 
@@ -104,8 +92,6 @@ genutzt.
 
 Diese Perspektive ermöglicht Korrektur ohne Gesichtsverlust. Sie stärkt die Stabilität des Systems, ohne autoritär zu
 werden.
-
----
 
 ### **Warum dieses Kapitel zentral ist**
 

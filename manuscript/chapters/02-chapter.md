@@ -1,6 +1,4 @@
-## **Kapitel 2 – Macht ohne Architektur**
-
-*(vertiefte Fassung)*
+# Kapitel 2 – Macht ohne Architektur
 
 ### **Macht als Grundbedingung politischer Ordnung**
 
@@ -17,8 +15,6 @@ Sichtweise verkennt, dass Macht nicht erst dort wirksam wird, wo sie böse Absic
 Dieses Kapitel betrachtet Macht daher nicht als moralisches Risiko, sondern als **architektonisches Phänomen**. Nicht
 die Frage nach Gut oder Böse steht im Zentrum, sondern die Frage nach Form, Sichtbarkeit und Begrenzung.
 
----
-
 ### **Die Unsichtbarkeit moderner Macht**
 
 In vormodernen politischen Ordnungen war Macht meist sichtbar. Sie war an Personen, Ämter oder Orte gebunden. Herrschaft
@@ -34,8 +30,6 @@ Notwendigkeit, als alternativloser Prozess. Gerade dadurch entzieht sie sich der
 nicht illegal, nicht illegitim und oft nicht einmal bewusst ausgeübt. Und doch ist sie wirksam.
 
 Ohne architektonische Klarheit bleibt diese Macht unsichtbar. Und was unsichtbar ist, kann kaum begrenzt werden.
-
----
 
 ### **Wenn Macht keine Form hat**
 
@@ -55,8 +49,6 @@ bleiben.
 Das Politische Profil setzt genau an diesem Punkt an. Es fragt nicht, **wer** Macht besitzt, sondern **wo** sie entsteht
 und **wie** sie wirkt.
 
----
-
 ### **Die moralische Überlastung der Politik**
 
 Fehlt eine tragfähige Architektur, wird Macht politisch überfrachtet. Aufgaben, die strukturell gelöst werden müssten,
@@ -69,8 +61,6 @@ Moral ersetzt Ordnung. Narrative ersetzen Mechanik. Empörung ersetzt Korrektur.
 
 Diese Dynamik wird oft als Zeichen lebendiger Demokratie missverstanden. Tatsächlich ist sie ein Hinweis auf
 strukturelle Schwäche. Politik wird lauter, aber nicht wirksamer. Sie wird zentraler, aber nicht steuerungsfähiger.
-
----
 
 ### **Macht ist keine Ideologiefrage**
 
@@ -86,8 +76,6 @@ notwendig, um Macht dauerhaft zu begrenzen.
 Das Politische Profil bewertet Macht deshalb nicht normativ, sondern funktional. Es fragt nicht, ob Macht gut oder
 schlecht ist, sondern ob sie **lesbar, begrenzt und korrigierbar** ist.
 
----
-
 ### **Verantwortung folgt der Architektur**
 
 In vielen modernen Staaten ist Verantwortung schwer zu lokalisieren. Entscheidungen entstehen aus komplexen Prozessen,
@@ -102,8 +90,6 @@ Architektonische Klarheit wirkt hier entlastend. Sie zwingt nicht zur Zentralisi
 dort verortet, wo sie wirkt. Verantwortung folgt der Struktur. Erst dann kann Kontrolle greifen, ohne autoritär zu
 werden.
 
----
-
 ### **Macht als Systemphänomen**
 
 Ein zentraler Fehler politischer Debatten liegt in der Personalisierung von Macht. Machtmissbrauch wird einzelnen
@@ -114,8 +100,6 @@ anderes erschweren.
 Das Politische Profil verschiebt den Fokus konsequent. Es fragt nicht, wer Macht missbraucht, sondern welche Struktur
 Missbrauch ermöglicht. Diese Verschiebung ist analytisch anspruchsvoller, aber nachhaltiger. Sie ermöglicht Korrektur,
 ohne moralische Eskalation.
-
----
 
 ### **Warum dieses Kapitel zentral ist**
 
