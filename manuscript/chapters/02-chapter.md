@@ -1,6 +1,6 @@
 # Kapitel 2 – Macht ohne Architektur
 
-### **Macht als Grundbedingung politischer Ordnung**
+### Macht als Grundbedingung politischer Ordnung
 
 Macht ist kein Sonderfall der Politik. Sie ist ihre Grundbedingung. Wo Regeln gelten, wo Entscheidungen getroffen
 werden, wo Ressourcen verteilt oder Zugänge kontrolliert werden, wirkt Macht. Sie entsteht nicht erst durch Missbrauch,
@@ -15,7 +15,7 @@ Sichtweise verkennt, dass Macht nicht erst dort wirksam wird, wo sie böse Absic
 Dieses Kapitel betrachtet Macht daher nicht als moralisches Risiko, sondern als **architektonisches Phänomen**. Nicht
 die Frage nach Gut oder Böse steht im Zentrum, sondern die Frage nach Form, Sichtbarkeit und Begrenzung.
 
-### **Die Unsichtbarkeit moderner Macht**
+### Die Unsichtbarkeit moderner Macht
 
 In vormodernen politischen Ordnungen war Macht meist sichtbar. Sie war an Personen, Ämter oder Orte gebunden. Herrschaft
 hatte ein Gesicht, eine Adresse, einen Namen. Moderne Staaten funktionieren anders. Macht ist heute verteilt, vermittelt
@@ -31,7 +31,7 @@ nicht illegal, nicht illegitim und oft nicht einmal bewusst ausgeübt. Und doch 
 
 Ohne architektonische Klarheit bleibt diese Macht unsichtbar. Und was unsichtbar ist, kann kaum begrenzt werden.
 
-### **Wenn Macht keine Form hat**
+### Wenn Macht keine Form hat
 
 Macht benötigt Form, um begrenzt zu sein. Form bedeutet nicht Kontrolle um der Kontrolle willen, sondern Lesbarkeit. Wo
 Macht klar verortet ist, kann sie verantwortet werden. Wo sie diffus bleibt, verteilt sie sich entlang der Schwächen des
@@ -49,7 +49,7 @@ bleiben.
 Das Politische Profil setzt genau an diesem Punkt an. Es fragt nicht, **wer** Macht besitzt, sondern **wo** sie entsteht
 und **wie** sie wirkt.
 
-### **Die moralische Überlastung der Politik**
+### Die moralische Überlastung der Politik
 
 Fehlt eine tragfähige Architektur, wird Macht politisch überfrachtet. Aufgaben, die strukturell gelöst werden müssten,
 werden auf die politische Ebene verschoben. Politik soll dann nicht nur entscheiden, sondern kompensieren. Sie soll
@@ -62,7 +62,7 @@ Moral ersetzt Ordnung. Narrative ersetzen Mechanik. Empörung ersetzt Korrektur.
 Diese Dynamik wird oft als Zeichen lebendiger Demokratie missverstanden. Tatsächlich ist sie ein Hinweis auf
 strukturelle Schwäche. Politik wird lauter, aber nicht wirksamer. Sie wird zentraler, aber nicht steuerungsfähiger.
 
-### **Macht ist keine Ideologiefrage**
+### Macht ist keine Ideologiefrage
 
 Ob ein Staat sich liberal, sozial, konservativ oder progressiv nennt, sagt wenig darüber aus, wie Macht in ihm
 tatsächlich wirkt. Ideologien formulieren Ziele. Architektur entscheidet über Wirkung. Ein demokratisch legitimiertes
@@ -76,7 +76,7 @@ notwendig, um Macht dauerhaft zu begrenzen.
 Das Politische Profil bewertet Macht deshalb nicht normativ, sondern funktional. Es fragt nicht, ob Macht gut oder
 schlecht ist, sondern ob sie **lesbar, begrenzt und korrigierbar** ist.
 
-### **Verantwortung folgt der Architektur**
+### Verantwortung folgt der Architektur
 
 In vielen modernen Staaten ist Verantwortung schwer zu lokalisieren. Entscheidungen entstehen aus komplexen Prozessen,
 verteilt über Ebenen, Gremien und Institutionen. Diese Verteilung schützt vor Willkür, kann aber auch Verantwortung
@@ -90,7 +90,7 @@ Architektonische Klarheit wirkt hier entlastend. Sie zwingt nicht zur Zentralisi
 dort verortet, wo sie wirkt. Verantwortung folgt der Struktur. Erst dann kann Kontrolle greifen, ohne autoritär zu
 werden.
 
-### **Macht als Systemphänomen**
+### Macht als Systemphänomen
 
 Ein zentraler Fehler politischer Debatten liegt in der Personalisierung von Macht. Machtmissbrauch wird einzelnen
 Akteuren zugeschrieben, während die Bedingungen, die diesen Missbrauch ermöglichen, unangetastet bleiben. Menschen
@@ -101,7 +101,7 @@ Das Politische Profil verschiebt den Fokus konsequent. Es fragt nicht, wer Macht
 Missbrauch ermöglicht. Diese Verschiebung ist analytisch anspruchsvoller, aber nachhaltiger. Sie ermöglicht Korrektur,
 ohne moralische Eskalation.
 
-### **Warum dieses Kapitel zentral ist**
+### Warum dieses Kapitel zentral ist
 
 Ohne ein klares Verständnis von Macht als architektonischem Phänomen bleiben Begriffe wie Kontrolle, Transparenz oder
 Beteiligung oberflächlich. Sie werden moralisch aufgeladen, statt funktional eingesetzt. Sie reagieren auf Symptome,

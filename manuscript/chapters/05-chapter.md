@@ -1,6 +1,6 @@
-## **Kapitel 5 – Sichtbarkeit ohne Kontrolle ist Illusion**
+## Kapitel 5 – Sichtbarkeit ohne Kontrolle ist Illusion
 
-### **Warum Transparenz allein nicht trägt**
+### Warum Transparenz allein nicht trägt
 
 Transparenz gilt in modernen Demokratien als Allheilmittel. Wo Vertrauen schwindet, wird mehr Offenlegung gefordert. Wo
 Macht in Frage steht, sollen Informationen zugänglich gemacht werden. Sichtbarkeit erscheint als moralisch saubere
@@ -14,7 +14,7 @@ Das Politische Profil setzt genau hier an. Es trennt konsequent zwischen Sichtba
 als Funktion. Transparenz ist kein Selbstzweck. Sie entfaltet nur dann Wirkung, wenn sie architektonisch eingebettet
 ist.
 
-### **Die Überforderung durch bloße Offenlegung**
+### Die Überforderung durch bloße Offenlegung
 
 In vielen politischen Systemen hat Transparenz zu einer paradoxen Entwicklung geführt. Je mehr Informationen
 veröffentlicht werden, desto schwieriger wird es, Relevantes von Irrelevantem zu unterscheiden. Datenmengen wachsen,
@@ -29,7 +29,7 @@ Das Politische Profil erkennt dieses Problem als strukturelles Defizit. Es verst
 Veröffentlichungspflicht, sondern als gezielte Sichtbarmachung relevanter Wirkzusammenhänge. Nicht alles muss sichtbar
 sein. Entscheidend ist, was sichtbar wird und für wen.
 
-### **Wenn Transparenz Macht verschleiert**
+### Wenn Transparenz Macht verschleiert
 
 Paradoxerweise kann Transparenz Macht auch verschleiern. Wo Prozesse offenliegen, aber ihre Bedeutung unklar bleibt,
 entsteht der Eindruck von Kontrolle, ohne dass Kontrolle tatsächlich stattfindet. Verantwortung kann sich hinter
@@ -43,7 +43,7 @@ Das Politische Profil setzt hier eine klare Grenze. Sichtbarkeit ist nur dann si
 Verantwortlichkeiten und Rückkopplungen verbunden ist. Transparenz ohne Kontrollarchitektur stabilisiert bestehende
 Machtverhältnisse, statt sie zu begrenzen.
 
-### **Sichtbarkeit als architektonische Entscheidung**
+### Sichtbarkeit als architektonische Entscheidung
 
 Was sichtbar ist, ist nie neutral. Sichtbarkeit folgt immer einer Entscheidung. Welche Daten erhoben werden, welche
 Kennzahlen gelten, welche Berichte erstellt werden, bestimmt, worüber gesprochen wird und worüber nicht. Sichtbarkeit
@@ -56,7 +56,7 @@ Selbstdarstellung. Sie richtet sich an klar definierte Rollen und erfüllt eine 
 In diesem Verständnis ist Transparenz kein moralisches Gebot, sondern ein Werkzeug. Richtig eingesetzt, ermöglicht sie
 Kontrolle und Lernen. Falsch eingesetzt, erzeugt sie Ablenkung und Scheinklarheit.
 
-### **Warum Daten keine Verantwortung tragen**
+### Warum Daten keine Verantwortung tragen
 
 Ein weiterer verbreiteter Irrtum besteht darin, Verantwortung auf Daten zu verlagern. Je mehr gemessen wird, desto
 objektiver erscheint die Entscheidung. Zahlen sollen Neutralität garantieren. Doch Daten tragen keine Verantwortung. Sie
@@ -68,7 +68,7 @@ genutzt werden. Kontrolle entsteht erst dort, wo Daten in eine Struktur eingebet
 Das Politische Profil koppelt Sichtbarkeit deshalb immer an Verantwortung. Daten machen Wirkungen sichtbar, aber erst
 die Architektur entscheidet, wie auf diese Wirkungen reagiert wird. Transparenz ohne Konsequenz ist kosmetisch.
 
-### **Die Rolle von Öffentlichkeit und Kontrolle**
+### Die Rolle von Öffentlichkeit und Kontrolle
 
 Öffentlichkeit wird häufig als Kontrollinstanz verstanden. Was öffentlich ist, so die Annahme, wird automatisch
 überprüft. In der Praxis funktioniert diese Logik nur begrenzt. Öffentlichkeit reagiert selektiv, emotional und zeitlich
@@ -81,7 +81,7 @@ sie.
 Diese Entlastung ist notwendig. Ein Staat, der auf permanente öffentliche Kontrolle angewiesen ist, ist strukturell
 instabil. Er reagiert auf Aufmerksamkeit, nicht auf Wirkung.
 
-### **Sichtbarkeit als Voraussetzung von Lernfähigkeit**
+### Sichtbarkeit als Voraussetzung von Lernfähigkeit
 
 Sichtbarkeit entfaltet ihre eigentliche Stärke dort, wo sie Lernen ermöglicht. Lernen setzt voraus, dass Wirkungen
 erkennbar sind und mit Entscheidungen in Beziehung gesetzt werden können. Ohne diese Verbindung bleibt Sichtbarkeit
@@ -94,7 +94,7 @@ Anpassung wird möglich, weil Wirkungen strukturell erfasst sind.
 In diesem Zusammenhang ist Transparenz kein Endpunkt, sondern ein Anfang. Sie schafft die Grundlage für Korrektur, nicht
 ihre Ersetzung.
 
-### **Warum dieses Kapitel notwendig ist**
+### Warum dieses Kapitel notwendig ist
 
 Ohne die Unterscheidung zwischen Sichtbarkeit und Kontrolle bleibt politische Transparenz wirkungslos oder sogar
 kontraproduktiv. Offenlegung erzeugt dann Erwartungen, die strukturell nicht eingelöst werden können. Enttäuschung ist

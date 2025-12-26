@@ -1,6 +1,6 @@
-## **Kapitel 4 – Kontrolle ohne Misstrauen**
+## Kapitel 4 – Kontrolle ohne Misstrauen
 
-### **Warum Kontrolle eine Voraussetzung von Freiheit ist**
+### Warum Kontrolle eine Voraussetzung von Freiheit ist
 
 Kontrolle gilt in politischen Debatten als notwendiges Übel. Sie wird mit Misstrauen assoziiert, mit Einschränkung, mit
 der Unterstellung falscher Motive. Wo Kontrolle eingefordert wird, entsteht schnell der Verdacht, Freiheit solle
@@ -15,7 +15,7 @@ Das Politische Profil setzt genau an diesem Punkt an. Es versteht Kontrolle nich
 als architektonische Stabilitätsfunktion. Kontrolle schützt nicht vor Menschen, sondern vor systemischen
 Fehlentwicklungen.
 
-### **Die Verwechslung von Kontrolle und Überwachung**
+### Die Verwechslung von Kontrolle und Überwachung
 
 Ein zentraler Grund für die Ablehnung von Kontrolle liegt in ihrer begrifflichen Vermischung mit Überwachung.
 Überwachung beobachtet Personen. Sie sammelt Daten über Verhalten und versucht, Abweichungen frühzeitig zu erkennen.
@@ -29,7 +29,7 @@ Das Politische Profil trennt diese Ebenen bewusst. Kontrolle bezieht sich auf En
 Wirkungen. Sie macht sichtbar, ob ein System das leistet, was es leisten soll. Sie benötigt keine permanente Beobachtung
 von Individuen.
 
-### **Warum fehlende Kontrolle Macht verzerrt**
+### Warum fehlende Kontrolle Macht verzerrt
 
 Wo Kontrolle fehlt oder unklar ist, verzerrt sich Macht. Entscheidungen entfalten Wirkungen, ohne dass Rückkopplung
 stattfindet. Fehler werden nicht systematisch erkannt, sondern politisch interpretiert. Erfolg und Misserfolg
@@ -42,7 +42,7 @@ aus, weil Fehler nicht als strukturelle Information genutzt werden.
 Das Politische Profil begreift Kontrolle deshalb als Voraussetzung von Lernfähigkeit. Ohne überprüfbare Wirkung kann
 kein System lernen. Ohne Lernen kann es sich nicht an veränderte Bedingungen anpassen.
 
-### **Kontrolle als Teil der Architektur**
+### Kontrolle als Teil der Architektur
 
 Kontrolle wirkt nur dann stabilisierend, wenn sie architektonisch verankert ist. Nachträgliche Prüfungen oder externe
 Eingriffe können Fehlentwicklungen sichtbar machen, aber sie ersetzen keine strukturelle Kontrolle. Kontrolle muss dort
@@ -55,7 +55,7 @@ nachvollziehbar bleiben. Rückkopplung erfolgt kontinuierlich, nicht erst im Kri
 Diese Form von Kontrolle ist leise. Sie produziert keine Skandale, sondern Stabilität. Sie wirkt nicht repressiv,
 sondern ordnend.
 
-### **Warum Vertrauen Kontrolle benötigt**
+### Warum Vertrauen Kontrolle benötigt
 
 Vertrauen wird oft als Alternative zu Kontrolle verstanden. Entweder man vertraut oder man kontrolliert. Diese
 Gegenüberstellung ist falsch. Vertrauen ohne Kontrolle ist naiv. Kontrolle ohne Vertrauen ist instabil. Dauerhafte
@@ -68,7 +68,7 @@ blind zu sein.
 Das Politische Profil versteht Vertrauen daher nicht als moralische Haltung, sondern als Systemeffekt. Es entsteht aus
 der Erfahrung verlässlicher Strukturen, nicht aus Appellen.
 
-### **Die politische Überforderung durch fehlende Kontrolle**
+### Die politische Überforderung durch fehlende Kontrolle
 
 Fehlt strukturelle Kontrolle, wird Politik erneut überfordert. Sie soll dann im Nachhinein korrigieren, was
 architektonisch hätte begrenzt werden müssen. Kontrolle wird politisiert. Sie erscheint als Angriff, nicht als
@@ -80,7 +80,7 @@ Kontrolle zu vermeiden, statt sie zu integrieren. Stabilität wird kurzfristig e
 Das Politische Profil entlastet Politik auch hier. Es verlagert Kontrolle von der politischen Auseinandersetzung in die
 Architektur. Politik muss Kontrolle nicht ständig neu begründen, weil sie strukturell vorgesehen ist.
 
-### **Kontrolle ohne Moral**
+### Kontrolle ohne Moral
 
 Ein weiterer Vorteil architektonischer Kontrolle liegt in ihrer Entmoralisierung. Kontrolle wird häufig als Ausdruck von
 Misstrauen gegenüber Personen interpretiert. Das erzeugt Widerstand und Eskalation. Wird Kontrolle hingegen als
@@ -93,7 +93,7 @@ genutzt.
 Diese Perspektive ermöglicht Korrektur ohne Gesichtsverlust. Sie stärkt die Stabilität des Systems, ohne autoritär zu
 werden.
 
-### **Warum dieses Kapitel zentral ist**
+### Warum dieses Kapitel zentral ist
 
 Ohne eine tragfähige Kontrollarchitektur bleiben Transparenz, Verantwortung und Lernen fragmentarisch. Sie existieren
 als Forderungen, nicht als Funktionen. Kontrolle wird dann entweder überzogen oder vermieden, aber selten wirksam.

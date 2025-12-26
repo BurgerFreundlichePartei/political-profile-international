@@ -1,6 +1,6 @@
-## **Kapitel 3 – Struktur ist keine Bürokratie**
+## Kapitel 3 – Struktur ist keine Bürokratie
 
-### **Warum Ordnung und Freiheit einander bedingen**
+### Warum Ordnung und Freiheit einander bedingen
 
 Struktur hat in politischen Debatten einen schlechten Ruf. Sie gilt als schwerfällig, hemmend, bürokratisch. Wo von
 Struktur gesprochen wird, entsteht schnell das Bild von Formularen, Hierarchien und Zuständigkeiten, die Bewegung
@@ -15,7 +15,7 @@ Das Politische Profil setzt genau an dieser Stelle an. Es versteht Struktur nich
 bewusste architektonische Vorentscheidung darüber, wie Macht, Verantwortung und Kontrolle zueinander stehen. Struktur
 ist in diesem Verständnis kein Hindernis politischer Freiheit, sondern ihr Träger.
 
-### **Bürokratie als Folge fehlender Architektur**
+### Bürokratie als Folge fehlender Architektur
 
 Bürokratie entsteht selten aus dem Wunsch nach Ordnung. Sie entsteht dort, wo Struktur fehlt oder unklar ist. Wo
 Zuständigkeiten nicht sauber definiert sind, werden zusätzliche Regeln eingeführt. Wo Verantwortung diffus bleibt,
@@ -30,7 +30,7 @@ Linien eines Systems. Bürokratie entsteht, wenn diese Linien fehlen oder widers
 benötigt weniger Bürokratie, nicht mehr. Es schafft Klarheit darüber, wer wofür verantwortlich ist, und macht
 zusätzliche Absicherung überflüssig.
 
-### **Wenn Struktur fehlt, entsteht informelle Macht**
+### Wenn Struktur fehlt, entsteht informelle Macht
 
 Strukturelle Leere bleibt nicht leer. Dort, wo formale Ordnung fehlt oder unklar ist, entstehen informelle
 Machtverhältnisse. Netzwerke, Routinen und implizite Regeln übernehmen die Steuerung. Entscheidungen werden nicht mehr
@@ -44,7 +44,7 @@ Das Politische Profil versteht Struktur deshalb als Mittel zur Sichtbarmachung v
 informelle Macht nicht verschwinden, aber sie kann begrenzt werden. Struktur zwingt Macht in nachvollziehbare Bahnen und
 macht sie damit kontrollierbar, ohne sie zu zentralisieren.
 
-### **Politik wird überfordert, wenn Struktur fehlt**
+### Politik wird überfordert, wenn Struktur fehlt
 
 Wo Struktur nicht trägt, wird Politik zur Reparaturinstanz. Aufgaben, die eigentlich architektonisch gelöst werden
 müssten, landen auf der politischen Ebene. Politik soll dann nicht nur entscheiden, sondern kompensieren, erklären,
@@ -58,7 +58,7 @@ Das Politische Profil setzt dem eine andere Logik entgegen. Es entlastet Politik
 Vorentscheidungen sichtbar macht. Politik bleibt notwendig, aber sie wird auf ihren eigentlichen Aufgabenbereich
 zurückgeführt. Gestaltung wird möglich, weil Kompensation entfällt.
 
-### **Flexibilität entsteht nicht durch Beliebigkeit**
+### Flexibilität entsteht nicht durch Beliebigkeit
 
 Häufig wird argumentiert, starre Strukturen verhinderten notwendige Anpassung. In einer dynamischen Welt brauche es
 flexible Systeme. Dieser Einwand ist berechtigt, wird aber oft falsch verstanden. Flexibilität entsteht nicht durch das
@@ -72,7 +72,7 @@ Das Politische Profil beschreibt Struktur deshalb als Rahmen, nicht als Fessel. 
 Entwicklung zu verhindern. Stabilität und Anpassungsfähigkeit sind kein Gegensatz, wenn Architektur bewusst gestaltet
 ist.
 
-### **Architektur vor Verfahren**
+### Architektur vor Verfahren
 
 Viele Reformversuche setzen bei Verfahren an. Prozesse werden angepasst, Zuständigkeiten verschoben, neue Gremien
 geschaffen. Diese Maßnahmen bleiben oft wirkungslos, weil sie die zugrunde liegende Architektur unangetastet lassen.
@@ -85,7 +85,7 @@ Kontrolle zueinander stehen, können Verfahren sinnvoll gestaltet werden.
 Diese Reihenfolge ist entscheidend. Wer Verfahren ohne Architektur optimiert, produziert Bürokratie. Wer Architektur
 klärt, ermöglicht einfache und belastbare Verfahren.
 
-### **Struktur als Voraussetzung institutionellen Lernens**
+### Struktur als Voraussetzung institutionellen Lernens
 
 Ein Staat, der lernen soll, benötigt klare Bezugspunkte. Lernen setzt Vergleichbarkeit voraus. Ohne definierte
 Zuständigkeiten, Rückkopplungen und Verantwortlichkeiten bleibt Lernen diffus. Fehler werden erkannt, aber nicht
@@ -98,7 +98,7 @@ erfolgen, ohne Schuldzuweisungen oder Machtkämpfe.
 In diesem Sinne ist Struktur kein starres Korsett, sondern ein lernfähiges Gerüst. Sie hält Veränderung aus, weil sie
 Orientierung bietet.
 
-### **Warum dieses Kapitel den Rahmen schließt**
+### Warum dieses Kapitel den Rahmen schließt
 
 Ohne die klare Unterscheidung zwischen Struktur und Bürokratie bleibt politische Architektur missverstanden. Der Ruf
 nach Vereinfachung führt dann zum Abbau von Ordnung statt zu besserer Gestaltung. Freiheit wird gegen Struktur

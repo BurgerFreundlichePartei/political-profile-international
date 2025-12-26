@@ -1,6 +1,6 @@
-## **Kapitel 7 – Eigentümerschaft ohne Mandat bleibt Fiktion**
+## Kapitel 7 – Eigentümerschaft ohne Mandat bleibt Fiktion
 
-### **Warum Demokratie mehr als Beteiligung braucht**
+### Warum Demokratie mehr als Beteiligung braucht
 
 Demokratie wird häufig über Beteiligung definiert. Wahlen, Konsultationen, öffentliche Debatten und partizipative
 Formate gelten als Ausdruck politischer Teilhabe. Beteiligung erscheint als Gegenmittel gegen Entfremdung und
@@ -13,7 +13,7 @@ erzeugt Erwartungen, ohne strukturelle Wirkung zu entfalten.
 Das Politische Profil setzt deshalb an einem anderen Punkt an. Es verschiebt den Fokus von Beteiligung zu
 Eigentümerschaft. Nicht die Frage, wer spricht, ist entscheidend, sondern die Frage, **wem das System gehört**.
 
-### **Die Verwechslung von Beteiligung und Auftraggeberschaft**
+### Die Verwechslung von Beteiligung und Auftraggeberschaft
 
 In vielen politischen Systemen wird Beteiligung mit Auftraggeberschaft verwechselt. Bürger dürfen sich äußern, wählen
 oder konsultiert werden, ohne tatsächlich als Auftraggeber des Systems zu fungieren. Entscheidungen werden legitimiert,
@@ -27,7 +27,7 @@ Das Politische Profil trennt diese Ebenen bewusst. Auftraggeberschaft bedeutet n
 Entscheidungen, sondern strukturelle Eigentümerschaft am System selbst. Wer Auftraggeber ist, definiert Rahmen, Ziele
 und Grenzen. Beteiligung ist nachgeordnet.
 
-### **Eigentümerschaft als strukturelle Kategorie**
+### Eigentümerschaft als strukturelle Kategorie
 
 Eigentümerschaft ist kein moralischer Anspruch, sondern eine strukturelle Kategorie. In funktionierenden Systemen ist
 klar, wer Eigentümer ist und welche Rechte und Pflichten damit verbunden sind. Diese Klarheit ermöglicht Verantwortung
@@ -40,7 +40,7 @@ informelle Akteure diese Rolle.
 Das Politische Profil macht Eigentümerschaft explizit. Es verankert Bürger nicht als Konsumenten politischer Leistungen,
 sondern als Eigentümer der staatlichen Architektur. Diese Eigentümerschaft ist nicht symbolisch, sondern funktional.
 
-### **Mandat als Verbindung zwischen Eigentum und Macht**
+### Mandat als Verbindung zwischen Eigentum und Macht
 
 Eigentümerschaft allein genügt nicht. Sie benötigt ein Mandat, um wirksam zu werden. Ein Mandat übersetzt Eigentum in
 Handlungsspielraum. Es definiert, wer im Namen der Eigentümer handelt, unter welchen Bedingungen und mit welchen
@@ -54,7 +54,7 @@ Das Politische Profil versteht das Mandat als zentrale Verbindung zwischen Bürg
 einmaliger Akt, sondern ein fortlaufendes Verhältnis. Mandate sind begrenzt, überprüfbar und widerrufbar. Sie schaffen
 Klarheit, ohne Handlungsfähigkeit zu blockieren.
 
-### **Warum fehlende Mandate Politik verzerren**
+### Warum fehlende Mandate Politik verzerren
 
 Wo Mandate unklar oder schwach sind, verzerrt sich politische Verantwortung. Akteure handeln innerhalb weiter
 Interpretationsspielräume. Entscheidungen werden mit formaler Legitimation gerechtfertigt, ohne strukturell rückgebunden
@@ -66,7 +66,7 @@ Akteuren ersetzt strukturelle Korrektur. Systeme lernen nicht, sondern reagieren
 Das Politische Profil begegnet diesem Problem, indem es Mandate präzise fasst. Es begrenzt Handlungsspielräume nicht
 willkürlich, sondern architektonisch. Dadurch wird Verantwortung wieder zuordenbar und überprüfbar.
 
-### **Eigentümerschaft entlastet Politik**
+### Eigentümerschaft entlastet Politik
 
 Klare Eigentümerschaft und präzise Mandate entlasten die politische Ebene. Politik muss nicht ständig Legitimation
 erzeugen, wenn Auftraggeberschaft strukturell verankert ist. Konflikte werden nicht vermieden, aber sie werden
@@ -78,7 +78,7 @@ Eigentümerschaft bleibt implizit, Mandate dehnbar. Das Ergebnis ist Unsicherhei
 Das Politische Profil verschiebt diese Last zurück in die Architektur. Politik handelt innerhalb klarer Mandate.
 Vertrauen entsteht nicht durch Rhetorik, sondern durch Verlässlichkeit der Struktur.
 
-### **Eigentümerschaft und Verantwortung**
+### Eigentümerschaft und Verantwortung
 
 Eigentümerschaft bedeutet Verantwortung. Wer Eigentümer ist, trägt die Folgen. Diese Verbindung ist im politischen Raum
 oft unterbrochen. Bürger werden als Anspruchsberechtigte adressiert, nicht als Mitverantwortliche.
@@ -90,7 +90,7 @@ Mittragen von Konsequenzen.
 Diese Perspektive verändert das Verhältnis zwischen Staat und Bürgern grundlegend. Sie macht politische Ordnung
 belastbarer, weil sie auf Verantwortung statt auf Erwartung basiert.
 
-### **Warum dieses Kapitel den Kern berührt**
+### Warum dieses Kapitel den Kern berührt
 
 Ohne klare Eigentümerschaft bleibt Demokratie formal korrekt, aber inhaltlich leer. Beteiligung ersetzt dann
 Auftraggeberschaft, Mandate bleiben undeutlich, Verantwortung diffus. Vertrauen wird eingefordert, ohne strukturell

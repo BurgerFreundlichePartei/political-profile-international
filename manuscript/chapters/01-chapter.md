@@ -1,6 +1,6 @@
-## **Kapitel 1 – Warum Demokratien scheitern können, obwohl sie legitim sind**
+## Kapitel 1 – Warum Demokratien scheitern können, obwohl sie legitim sind
 
-### **Demokratische Legitimation und der Verlust von Wirkung**
+### Demokratische Legitimation und der Verlust von Wirkung
 
 Demokratische Staaten scheitern selten abrupt. Sie verlieren nicht plötzlich ihre Legitimation, sie kippen nicht von
 einem Tag auf den anderen in autoritäre Strukturen, und sie werden nicht über Nacht handlungsunfähig. Ihr Scheitern
@@ -22,7 +22,7 @@ ist, aber kein Garant für Funktionsfähigkeit. Sie regelt, wer entscheiden darf
 legitim ist. Sie sagt jedoch nichts darüber aus, ob Entscheidungen innerhalb eines Systems tatsächlich Wirkung entfalten
 können.
 
-### **Überforderung moderner Demokratien**
+### Überforderung moderner Demokratien
 
 Moderne Demokratien operieren in einem Umfeld, das sich grundlegend von dem unterscheidet, in dem ihre institutionellen
 Grundannahmen entstanden sind. Gesellschaften sind pluraler geworden, wirtschaftliche und politische Abhängigkeiten
@@ -42,7 +42,7 @@ Entscheidungen werden symbolisch, Konflikte eskalieren rhetorisch, während die 
 Das ist kein Versagen einzelner Akteure. Es ist das Ergebnis eines Systems, das mehr leisten soll, als seine Struktur
 erlaubt.
 
-### **Legitimation ersetzt keine Architektur**
+### Legitimation ersetzt keine Architektur
 
 Ein zentraler Irrtum moderner Staatlichkeit liegt in der Gleichsetzung von demokratischer Legitimation und funktionaler
 Wirksamkeit. Der Umstand, dass eine Entscheidung demokratisch zustande gekommen ist, wird oft als hinreichende
@@ -61,7 +61,7 @@ an, ohne die zugrunde liegende Bauweise zu hinterfragen. Veränderung wird sicht
 Dieses Buch trennt deshalb bewusst zwischen Legitimation und Funktionsfähigkeit. Nicht, um Demokratie zu relativieren,
 sondern um sie zu schützen. Demokratie kann nur dort dauerhaft wirken, wo sie auf einer tragfähigen Architektur ruht.
 
-### **Der Staat als gebautes System**
+### Der Staat als gebautes System
 
 Der zentrale Perspektivwechsel dieses Buches besteht darin, den Staat nicht primär als moralisches oder ideologisches
 Projekt zu betrachten, sondern als gebautes System. Gebaute Systeme haben Eigenschaften. Sie tragen Lasten oder versagen
@@ -79,7 +79,7 @@ Wo Struktur fehlt oder unklar ist, entstehen Ersatzmechanismen. Moral ersetzt Or
 Beteiligung ersetzt Verantwortung. Diese Mechanismen sind verständlich, aber sie verschärfen das Problem, weil sie an
 der Oberfläche bleiben.
 
-### **Warum gute Absichten nicht ausreichen**
+### Warum gute Absichten nicht ausreichen
 
 Demokratien scheitern nicht daran, dass Menschen fehlbar sind. Sie scheitern daran, dass Systeme oft so gebaut sind, als
 wären sie es nicht. Gute Absichten, Engagement und Beteiligung können strukturelle Defizite nicht dauerhaft
@@ -94,7 +94,7 @@ Das Politische Profil setzt genau hier an. Es ist kein politisches Programm und 
 staatliche Architektur unter demokratischen Bedingungen. Es fragt nicht, welche Entscheidungen richtig sind, sondern
 unter welchen Bedingungen Entscheidungen tragfähig bleiben, auch wenn sie umstritten sind.
 
-### **Der Denkrahmen für alles Weitere**
+### Der Denkrahmen für alles Weitere
 
 Dieses erste Kapitel markiert den Ausgangspunkt für alles Folgende. Es lädt nicht zur Zustimmung ein, sondern zu einem
 Perspektivwechsel. Weg von der Frage, wer versagt hat, hin zur Frage, was trägt. Weg von der Personalisierung
