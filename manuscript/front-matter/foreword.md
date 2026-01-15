@@ -1,7 +1,5 @@
 ### Vorwort
 
-*(integrierte, vollständige Version)*
-
 Staaten sind Konstruktionen. Manche wachsen historisch, andere entstehen durch Revolutionen, Reformen oder technische
 Notwendigkeiten. Doch nur selten werden Staaten bewusst entworfen – mit derselben Präzision, mit der Ingenieure
 Infrastrukturen planen oder Softwarearchitekten komplexe Systeme definieren.

@@ -1,19 +1,26 @@
+# Titel & Autor
 title: "Das Politische Profil – Wie Staaten tragfähig gebaut werden"
 subtitle: "Ein universelles Architekturmodell politischer Ordnung"
-series: "Das politische Profil – Die Architektur der Freiheit"
-volume: 4
 author: "Asterios Raptis"
-
-isbn:
-  ebook: ""
-  paperback: ""
-  hardcover: ""
-
-edition: "1. Auflage"
-publisher: "Conscious Path Publishing"
 date: "2025"
-language: "de"
+edition: "1. Auflage"
 
+# Sprache
+lang: de-DE
+
+# Identifikation
+identifier: https://consciouspath.pub/politisches-profil-staatsarchitektur
+identifiers:
+  # ISBNs noch nicht vergeben – Platzhalter für spätere Ergänzung
+  isbn_paperback: ""
+  isbn_hardcover: ""
+  # isbn_ebook bewusst ausgelassen oder leer
+
+# Verlag
+publisher: "Conscious Path Publishing"
+publisher_city: "Ludwigsburg"
+
+# Inhalt
 description: >
   Dieses Buch formuliert das Politische Profil als universelles,
   ideologiefreies Architekturmodell für staatliche Ordnung.
@@ -25,6 +32,12 @@ description: >
   tragfähig, anpassungsfähig und verantwortbar gestaltet werden können –
   unabhängig von Kultur, Ideologie oder Regierungsform.
 
+# Kategorien & Stichwörter
+subject:
+  - Politische Theorie
+  - Institutionenökonomik
+  - Systemtheorie
+  - Governance
 keywords:
   - politische Architektur
   - Staatsarchitektur
@@ -39,11 +52,15 @@ keywords:
   - Meta-Governance
   - politisches Profil
 
+# Technik
 cover_image: "assets/covers/cover.png"
-
-output_formats: [ "pdf", "epub", "docx" ]
-
-kdp_enabled: false
-
 css:
   - config/styles.css
+output_formats:
+  - pdf
+  - epub
+  - docx
+kdp_enabled: false
+
+# Rechte
+rights: "© Alle Rechte vorbehalten."
