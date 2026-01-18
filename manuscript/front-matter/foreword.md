@@ -1,4 +1,4 @@
-### Vorwort
+## Vorwort
 
 Staaten sind Konstruktionen. Manche wachsen historisch, andere entstehen durch Revolutionen, Reformen oder technische
 Notwendigkeiten. Doch nur selten werden Staaten bewusst entworfen – mit derselben Präzision, mit der Ingenieure
@@ -36,12 +36,12 @@ Staaten funktionieren oder scheitern nicht wegen Ideologien, sondern wegen ihrer
 Rollenverteilung und ihrer Fähigkeit, komplexe Gesellschaften stabil zu organisieren.
 
 Die moderne Welt verlangt deshalb ein neues Werkzeug:  
-Ein **neutrales, modulares, technologisch anschlussfähiges Governance-Framework**, das Staaten hilft, sich selbst klarer
-zu definieren, Prozesse zu vereinheitlichen, Rechte und Pflichten stabil zu verankern und die Qualität staatlicher
-Dienstleistungen zu erhöhen – ohne eine bestimmte politische Agenda vorauszusetzen.
+Ein **neutrales, modulares, technologisch anschlussfähiges Governance-Rahmenwerk**, das Staaten hilft, sich selbst
+klarer zu definieren, Prozesse zu vereinheitlichen, Rechte und Pflichten stabil zu verankern und die Qualität
+staatlicher Dienstleistungen zu erhöhen – ohne eine bestimmte politische Agenda vorauszusetzen.
 
 Dieses Werk versteht sich daher **nicht als politisches Programm**.  
-Es ist ein **architektonischer Rahmen**, ein **Blueprint**, ein **universelles Modell**, das Staaten, Organisationen und
+Es ist ein **architektonischer Rahmen**, ein **Bauplan**, ein **universelles Modell**, das Staaten, Organisationen und
 Institutionen verwenden können, wenn sie ihre Governance modernisieren oder neu denken möchten.
 
 Es ergänzt die klassischen Theorien nicht, indem es sie interpretiert, sondern indem es ihre Lücken schließt:  
@@ -60,8 +60,12 @@ Es bietet das, was ihnen fehlt – eine **konstruierbare, modulare, anpassbare A
 | **Rawls**          | Gerechtigkeitsmodell       | konsistent             | schwer implementierbar | Prinzipien für Fairnessmodule           |
 | **Hayek**          | Marktordnungslogik         | Effizienz              | wenig Governance       | zeigt Wert spontaner Ordnungen          |
 | **Ostrom**         | lokale Governance          | empirisch              | nicht staatsweit       | liefert dezentrale Mechaniken           |
-| **Lee Kuan Yew**   | Modernisierungsarchitektur | Effizienz              | autoritätslastig       | Beispiel für funktionale Verbesserung   |
+| **Lee Kuan Yew**°  | Modernisierungsarchitektur | Effizienz              | autoritätslastig       | Beispiel für funktionale Umsetzung      |
 | **Taleb**          | Risikoarchitektur          | Systemrobustheit       | keine Politik          | Grundlagen für Resilienz                |
+
+° Lee Kuan Yew war kein Theoretiker im akademischen Sinne, sondern ein politischer Praktiker. Seine Aufnahme in diese
+Übersicht erfolgt bewusst, um zu zeigen, dass auch implementierte Architektur – nicht nur gedachte – Bausteine liefern
+kann.
 
 Diese Denker liefern **Bausteine**, aber kein vollständiges **Konstruktionshandbuch** für Staaten des 21.
 Jahrhunderts.  
@@ -81,8 +85,8 @@ Ein politischer Architekt im 21. Jahrhundert muss Disziplinen verbinden, die fr�
 - Organisationspsychologie
 - Sicherheitsarchitektur
 
-Der moderne Staat ist kein philosophisches Objekt mehr – er ist ein **System**, ein **Netzwerk**, eine 
-**Infrastrukturleistung**.
+Der moderne Staat ist kein philosophisches Objekt mehr – er ist ein **System**, ein **Netzwerk**, eine *
+*Infrastrukturleistung**.
 
 Ein moderner politischer Architekt muss deshalb:
 
@@ -117,7 +121,7 @@ Es ist ein **Instrument**, kein Pamphlet, und verlangt deshalb eine Leserschaft,
    Sicherheitsinfrastrukturen und Digitalprojekten.
 
 5. **Führungskräfte großer NGOs und zivilgesellschaftlicher Institutionen**  
-   Akteure, die zwischen Staaten und Bevölkerung vermitteln und Governance-defizite praktisch erleben.
+   Akteure, die zwischen Staaten und Bevölkerung vermitteln und Governance-Defizite praktisch erleben.
 
 6. **Anspruchsvolle Bürger**  
    Selbstselektierende Leser, die strukturelle Politik begreifen wollen, nicht tagespolitische Konflikte.
@@ -130,9 +134,9 @@ Es ist ein **Instrument**, kein Pamphlet, und verlangt deshalb eine Leserschaft,
 - Vereinfachung komplexer Sachverhalte
 - Appellrhetorik oder Aktivismus
 
-Dieses Werk ist ein **Framework**, ein **Baukasten**, ein **Referenzmodell**.  
+Dieses Werk ist ein **Rahmenwerk**, ein **Baukasten**, ein **Referenzmodell**.  
 Es beschreibt, **wie ein Staat funktionieren kann**, nicht **wie er politisch sein soll**.
 
-Dieses Vorwort bildet die Grundlage für das gesamte Governance-Framework.  
+Dieses Vorwort bildet die Grundlage für das gesamte Governance-Rahmenwerk.  
 Es klärt den Kontext, die theoretische Lücke, die historische Einordnung, die Zielgruppe und die Rolle dieses Werkes.  
 Mit **Kapitel 1** beginnt nun die eigentliche Architektur.
