@@ -49,8 +49,8 @@ einsehbar sind. Verantwortung diffundiert.
 Das ist kein Versagen einzelner Politiker. Es ist ein strukturelles Defizit. Eigentum ohne Einsicht, ohne Transparenz
 und ohne Kontrollmöglichkeit ist faktisch bedeutungslos.
 
-Das Politische Profil ersetzt Wahlen nicht. Aber es ergänzt sie um etwas Entscheidendes: **strukturelle 
-Eigentümerrechte**. Bürger erhalten nicht nur das Recht, Vertreter zu wählen, sondern auch das Recht, den Zustand des 
+Das Politische Profil ersetzt Wahlen nicht. Aber es ergänzt sie um etwas Entscheidendes: **strukturelle
+Eigentümerrechte**. Bürger erhalten nicht nur das Recht, Vertreter zu wählen, sondern auch das Recht, den Zustand des
 Systems zu sehen, zu bewerten und zu korrigieren.
 
 Erst diese Kombination erzeugt echtes Eigentum.
@@ -122,17 +122,6 @@ Kapitel 8 baut deshalb bewusst auf der Kontrollarchitektur auf. Der Bürger ist 
 **derjenige, dem die Kontrolle letztlich verpflichtet ist**. Dadurch entsteht eine klare Linie: Kontrolle dient nicht
 sich selbst, nicht der Politik, nicht der Verwaltung – sondern dem Eigentümer des Systems.
 
-## Ausblick auf den nächsten Teil
-
-Im nächsten Teil dieses Kapitels gehen wir einen Schritt weiter. Wir klären, **wie** Eigentümerschaft konkret aussieht:
-
-– Welche Rechte hat der Bürger strukturell?  
-– Wie verändert sich politische Legitimation?  
-– Wie wird Macht rückgekoppelt, ohne Populismus zu fördern?  
-– Wie bleibt das System handlungsfähig, ohne den Bürger zu überfordern?
-
-Dabei bleiben wir im selben narrativen Ton – ruhig, präzise, ohne Aufzählungsinflation.
-
 ## Eigentümerschaft verändert politische Legitimation grundlegend
 
 In klassischen Demokratien beruht politische Legitimation fast ausschließlich auf Wahlen. Wer gewählt ist, gilt als
@@ -198,8 +187,8 @@ So entsteht eine Form von Macht, die nicht laut ist, aber dauerhaft wirkt.
 Vertrauen ist eines der meistbeschworenen, aber am wenigsten verstandenen Phänomene der Politik. Es wird gefordert,
 beschworen, eingefordert – und doch bleibt es fragil.
 
-Das Politische Profil behandelt Vertrauen nicht als Ziel, sondern als **Nebenprodukt funktionierender 
-Eigentümerschaft**. Wenn Bürger sehen, dass sie nicht ausgeliefert sind, dass Strukturen nachvollziehbar bleiben und 
+Das Politische Profil behandelt Vertrauen nicht als Ziel, sondern als **Nebenprodukt funktionierender
+Eigentümerschaft**. Wenn Bürger sehen, dass sie nicht ausgeliefert sind, dass Strukturen nachvollziehbar bleiben und
 dass Fehler korrigierbar sind, entsteht Vertrauen fast automatisch.
 
 Dieses Vertrauen ist nicht blind. Es ist nüchtern, belastbar und weniger emotional. Gerade deshalb ist es stabiler als
@@ -232,12 +221,6 @@ anders geführt – weniger existenziell, weniger zerstörerisch.
 
 Eigentümerschaft ersetzt Feindbilder durch Verantwortungszusammenhänge. Sie macht Politik weniger dramatisch, aber
 belastbarer.
-
-## Ausblick auf Teil 3
-
-Im nächsten Teil schließen wir das Kapitel, indem wir den Bürger als Eigentümer **in das Gesamtmodell zurückführen**.
-Wir zeigen, wie sich Eigentümerschaft konkret mit Politik, Verwaltung und Kontrolle verzahnt – und warum dieses
-Zusammenspiel der eigentliche Kern des Politischen Profils ist.
 
 ## Eigentümerschaft als verbindendes Prinzip des gesamten Systems
 
