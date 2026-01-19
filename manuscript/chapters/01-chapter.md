@@ -86,7 +86,7 @@ mit Fehlern rechnen und Redundanzen enthalten.
 Ideologien neigen dazu, Fehler zu personalisieren. Architektur geht anders vor. Sie fragt: *Warum konnte dieser Fehler
 entstehen?* und *Wie verhindern wir ihn strukturell?*
 
-Diese Architektur folgt dieser Logik konsequent. Es setzt nicht auf bessere Menschen, sondern auf Systeme, die mit
+Diese Architektur folgt dieser Logik konsequent. Sie setzt nicht auf bessere Menschen, sondern auf Systeme, die mit
 realen Menschen funktionieren.
 
 ## Warum dieser Ansatz international anschlussfähig ist
@@ -122,7 +122,7 @@ Ideologien verlangen Sichtbarkeit. Sie wollen überzeugen, mobilisieren, prägen
 wirksamsten, wenn sie unsichtbar bleibt. Wenn Prozesse funktionieren, wenn Zuständigkeiten klar sind, wenn Kontrolle
 greift, ohne zu eskalieren – dann leistet Architektur ihre Arbeit.
 
-Der vorliegende Entwurf strebt diese Unsichtbarkeit an. Es will nicht begeistern, sondern tragen.
+Der vorliegende Entwurf strebt diese Unsichtbarkeit an. Er will nicht begeistern, sondern tragen.
 
 ## Warum Architektur Vertrauen erzeugt
 
