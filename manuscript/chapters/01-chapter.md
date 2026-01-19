@@ -37,9 +37,9 @@ Wertneutralität wird oft mit Beliebigkeit verwechselt. Doch Architektur ist nic
 Eine Brücke ist nicht links oder rechts. Aber sie entscheidet darüber, wer sie sicher überqueren kann. Ein Rechtssystem
 ist nicht konservativ oder progressiv. Aber es entscheidet darüber, ob Gerechtigkeit verlässlich entsteht.
 
-Das Politische Profil folgt diesem Denken. Es baut eine Architektur, die unterschiedliche politische Inhalte tragen
-kann, ohne bei jedem Richtungswechsel neu erfunden zu werden. Gerade dadurch wird politische Vielfalt möglich, ohne das
-System zu destabilisieren.
+Dieser Ansatz folgt diesem Denken. Es baut eine Architektur, die unterschiedliche politische Inhalte tragen kann, ohne
+bei jedem Richtungswechsel neu erfunden zu werden. Gerade dadurch wird politische Vielfalt möglich, ohne das System zu
+destabilisieren.
 
 ## Warum Ideologien an Komplexität scheitern
 
@@ -50,7 +50,7 @@ Moderne Staaten sind hochkomplexe Gebilde. Sie bestehen aus Millionen individuel
 Abhängigkeiten, technologischen Dynamiken und sozialen Spannungen. Kein ideologisches Modell kann diese Komplexität
 abbilden, ohne sie zu verformen.
 
-Das Politische Profil akzeptiert diese Unvollkommenheit. Es versucht nicht, die Welt zu erklären, sondern **mit ihr
+Der hier skizzierte Rahmen akzeptiert diese Unvollkommenheit. Es versucht nicht, die Welt zu erklären, sondern **mit ihr
 umzugehen**. Architektur ersetzt hier Ideologie nicht als Sinngeber, sondern als Steuerungsinstrument.
 
 ## Die Illusion der richtigen Idee
@@ -86,7 +86,7 @@ mit Fehlern rechnen und Redundanzen enthalten.
 Ideologien neigen dazu, Fehler zu personalisieren. Architektur geht anders vor. Sie fragt: *Warum konnte dieser Fehler
 entstehen?* und *Wie verhindern wir ihn strukturell?*
 
-Das Politische Profil folgt dieser Logik konsequent. Es setzt nicht auf bessere Menschen, sondern auf Systeme, die mit
+Diese Architektur folgt dieser Logik konsequent. Es setzt nicht auf bessere Menschen, sondern auf Systeme, die mit
 realen Menschen funktionieren.
 
 ## Warum dieser Ansatz international anschlussfähig ist
@@ -122,7 +122,7 @@ Ideologien verlangen Sichtbarkeit. Sie wollen überzeugen, mobilisieren, prägen
 wirksamsten, wenn sie unsichtbar bleibt. Wenn Prozesse funktionieren, wenn Zuständigkeiten klar sind, wenn Kontrolle
 greift, ohne zu eskalieren – dann leistet Architektur ihre Arbeit.
 
-Das Politische Profil strebt diese Unsichtbarkeit an. Es will nicht begeistern, sondern tragen.
+Der vorliegende Entwurf strebt diese Unsichtbarkeit an. Es will nicht begeistern, sondern tragen.
 
 ## Warum Architektur Vertrauen erzeugt
 
@@ -155,8 +155,9 @@ Funktionen.
 Hoffnung motiviert. Erwartbarkeit stabilisiert. Ein Staat, der nur Hoffnung bietet, aber keine Verlässlichkeit, erzeugt
 Enttäuschung. Ein Staat, der nur Erwartbarkeit bietet, aber keine Vision, erstarrt.
 
-Das Politische Profil setzt bewusst auf Erwartbarkeit als Grundlage. Visionen können kommen und gehen. Architektur
-bleibt. Sie ermöglicht, dass Hoffnungen geprüft, angepasst oder verworfen werden können, ohne das System zu beschädigen.
+Dieser architektonische Rahmen setzt bewusst auf Erwartbarkeit als Grundlage. Visionen können kommen und gehen.
+Architektur bleibt. Sie ermöglicht, dass Hoffnungen geprüft, angepasst oder verworfen werden können, ohne das System zu
+beschädigen.
 
 ## Der politische Diskurs nach der Architektur
 
