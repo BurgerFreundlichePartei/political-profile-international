@@ -90,11 +90,6 @@ Politik und Bürgerschaft. Jeder trägt einen Teil der Verantwortung, ohne alles
 Diese Verteilung ist entscheidend. Sie verhindert, dass Pflege zur Technokratenaufgabe oder zur politischen Spielwiese
 wird. Stattdessen entsteht ein **geteiltes Verantwortungsgefühl** für die Stabilität des Systems.
 
-### Ausblick auf Teil 2
-
-Im nächsten Teil vertiefen wir diese Perspektive. Wir betrachten, wie Weiterentwicklung gesteuert werden kann, ohne
-Dynamik zu verlieren – und warum ein gepflegtes System anpassungsfähiger ist als ein ständig reformiertes.
-
 ### Weiterentwicklung ist kein Projekt, sondern ein Zustand
 
 Ein zentrales Missverständnis moderner Reformlogik liegt in der Annahme, Weiterentwicklung lasse sich planen wie ein
@@ -179,12 +174,6 @@ Durch transparente Strukturen können Bürger erkennen, ob das System seine eige
 üben, ohne sich in Details zu verlieren. Diese distanzierte Beteiligung schützt vor Überforderung und Populismus.
 
 Weiterentwicklung bleibt dadurch eingebettet in gesellschaftliche Realität, ohne ihr ausgeliefert zu sein.
-
-### Ausblick auf Teil 3
-
-Im letzten Teil dieses Kapitels schließen wir den Kreis. Wir zeigen, warum Pflege, Kontrolle und Weiterentwicklung nicht
-nur technische Fragen sind, sondern Ausdruck einer politischen Haltung – und wie sie die Zukunftsfähigkeit des Systems
-sichern.
 
 ### Pflege als politische Kultur
 

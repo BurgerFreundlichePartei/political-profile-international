@@ -110,13 +110,6 @@ nicht mit der Realität übereinstimmen. Diese Ehrlichkeit ist unbequem, aber no
 Das Politische Profil baut bewusst auf diese Unbequemlichkeit. Es versteht Daten nicht als PR-Instrument, sondern als
 Spiegel. Ein Staat, der sich selbst nicht sehen will, verliert die Fähigkeit zur Korrektur.
 
-### Ausblick auf Teil 2
-
-Im nächsten Teil gehen wir tiefer in die Architektur:  
-Wie Daten so gestaltet werden können, dass sie Orientierung bieten statt Verwirrung erzeugen – und warum viele heutige
-Datensysteme genau daran scheitern.
-
-
 ### Wenn Zahlen beruhigen, obwohl sie falsch liegen
 
 Ein gefährliches Merkmal schlecht gebauter Datensysteme ist ihre beruhigende Wirkung. Zahlen vermitteln Objektivität.
@@ -210,12 +203,6 @@ erzeugen keine Lösungen.
 
 Ein Staat, der seine Daten kennt, kann handeln, ohne hektisch zu werden. Ein Staat, der seine Daten nicht kennt,
 reagiert entweder zu spät oder zu drastisch.
-
-### Ausblick auf Teil 3
-
-Im letzten Teil dieses Kapitels führen wir alles zusammen. Wir zeigen, wie Daten, Prozesse, Identität und Kontrolle ein
-gemeinsames Wahrnehmungssystem bilden – und warum dieses System die Voraussetzung für Ehrlichkeit, Lernen und
-langfristige Stabilität ist.
 
 ### Wahrnehmung entscheidet über Handlungsfähigkeit
 

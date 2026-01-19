@@ -92,12 +92,6 @@ Gestaltung zu nehmen.
 
 Ein lernender Staat ist kein perfekter Staat. Aber er ist ein Staat, der nicht immer wieder bei null beginnt.
 
-### Ausblick auf Teil 2
-
-Im nächsten Teil verdichten wir das Bild weiter.  
-Wir klären, warum der lernende Staat kein technokratisches Projekt ist, sondern eine zutiefst politische Entscheidung –
-und warum dieser Ansatz gerade in einer unsicheren Welt an Bedeutung gewinnt.
-
 ### Warum der lernende Staat kein technokratisches Projekt ist
 
 Der Begriff des Lernens wird im politischen Kontext oft missverstanden. Er weckt Assoziationen von Expertengremien,
@@ -177,12 +171,6 @@ werden, verfehlt seine Aufgabe.
 
 Das Politische Profil akzeptiert diese Offenheit. Es entwirft keinen idealen Endzustand, sondern eine **dauerhafte
 Lernfähigkeit**. Der Staat bleibt gestaltbar, ohne formbar zu werden.
-
-### Ausblick auf Teil 3
-
-Im letzten Teil dieses Kapitels – und damit des Buches – ziehen wir die letzte Linie:  
-Was bleibt, wenn man alles weglässt, was zeitgebunden ist?  
-Was ist der Kern dieses Entwurfs – jenseits von Begriffen, Modulen und Kontexten?
 
 ### Was bleibt, wenn man alles Zeitgebundene entfernt
 

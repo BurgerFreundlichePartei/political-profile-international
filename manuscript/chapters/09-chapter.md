@@ -113,11 +113,6 @@ stabil genug, um Verlässlichkeit zu bieten, und flexibel genug, um auf verände
 Diese Lernfähigkeit ist kein Selbstzweck. Sie ist Voraussetzung dafür, dass Staaten mit technologischen,
 gesellschaftlichen und demografischen Veränderungen Schritt halten können, ohne permanent in Krisenmodus zu verfallen.
 
-## Ausblick auf Teil 2
-
-Im nächsten Teil gehen wir tiefer in die Architektur selbst. Wir klären, welche Eigenschaften staatliche Prozesse
-besitzen müssen, um tragfähig zu sein – und warum viele heutige Prozesslandschaften genau daran scheitern.
-
 ## Warum staatliche Prozesse historisch gewachsen – und deshalb instabil sind
 
 Die meisten staatlichen Prozesse sind nicht entworfen worden. Sie sind gewachsen. Über Jahrzehnte, oft über
@@ -217,11 +212,6 @@ mehr Wirkung zu erzielen. Das ist besonders relevant in alternden Gesellschaften
 
 Das Politische Profil setzt deshalb nicht primär auf mehr Mittel, sondern auf **bessere Nutzung**. Prozesse sind der
 Hebel, an dem diese Verbesserung ansetzt.
-
-## Ausblick auf Teil 3
-
-Im nächsten Teil schließen wir Kapitel 10 ab. Wir zeigen, wie Prozesse, Identität und Eigentümerschaft zusammenwirken –
-und warum ein Staat ohne sauberes Prozessnervensystem weder kontrollierbar noch reformfähig ist.
 
 ## Prozesse als Ort, an dem der Staat für den Bürger real wird
 

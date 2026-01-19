@@ -101,18 +101,6 @@ amerikanischen oder europäischen Staat – sondern einen **architektonischen Ra
 Diese Offenheit ist kein Mangel an Haltung, sondern eine bewusste Entscheidung. Sie ermöglicht Kooperation,
 Vergleichbarkeit und Lernen über Grenzen hinweg.
 
-## Ausblick auf Teil 2
-
-Dieses Kapitel hat den Grundgedanken eingeführt: Architektur statt Ideologie. In den folgenden Abschnitten wird dieser
-Gedanke vertieft. Es geht um die Frage, wie Architektur praktisch wirkt – nicht als Ersatz für Politik, sondern als ihre
-Voraussetzung.
-
-Architektur ermöglicht Politik, indem sie ihr einen Rahmen gibt. Sie begrenzt Macht, ohne sie zu lähmen. Sie schafft
-Verlässlichkeit, ohne Wandel zu blockieren. Sie macht Fehler korrigierbar, ohne das System zu destabilisieren.
-
-Dieser zweite Teil des Kapitels zeigt, warum Architektur nicht nur eine technische, sondern eine zutiefst politische
-Entscheidung ist – und warum sie gerade deshalb ideologisch neutral bleiben muss.
-
 ## Architektur als Ermöglichung von Politik
 
 Ein verbreitetes Missverständnis besteht darin, Architektur als Gegensatz zur Politik zu verstehen. Doch das Gegenteil
