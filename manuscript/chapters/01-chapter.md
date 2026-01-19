@@ -37,7 +37,7 @@ Wertneutralität wird oft mit Beliebigkeit verwechselt. Doch Architektur ist nic
 Eine Brücke ist nicht links oder rechts. Aber sie entscheidet darüber, wer sie sicher überqueren kann. Ein Rechtssystem
 ist nicht konservativ oder progressiv. Aber es entscheidet darüber, ob Gerechtigkeit verlässlich entsteht.
 
-Dieser Ansatz folgt diesem Denken. Es baut eine Architektur, die unterschiedliche politische Inhalte tragen kann, ohne
+Dieser Ansatz folgt diesem Denken. Er baut eine Architektur, die unterschiedliche politische Inhalte tragen kann, ohne
 bei jedem Richtungswechsel neu erfunden zu werden. Gerade dadurch wird politische Vielfalt möglich, ohne das System zu
 destabilisieren.
 
