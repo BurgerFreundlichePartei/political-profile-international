@@ -50,7 +50,7 @@ Moderne Staaten sind hochkomplexe Gebilde. Sie bestehen aus Millionen individuel
 Abhängigkeiten, technologischen Dynamiken und sozialen Spannungen. Kein ideologisches Modell kann diese Komplexität
 abbilden, ohne sie zu verformen.
 
-Der hier skizzierte Rahmen akzeptiert diese Unvollkommenheit. Es versucht nicht, die Welt zu erklären, sondern **mit ihr
+Der hier skizzierte Rahmen akzeptiert diese Unvollkommenheit. Er versucht nicht, die Welt zu erklären, sondern **mit ihr
 umzugehen**. Architektur ersetzt hier Ideologie nicht als Sinngeber, sondern als Steuerungsinstrument.
 
 ## Die Illusion der richtigen Idee
