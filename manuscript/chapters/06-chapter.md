@@ -25,7 +25,7 @@ Sichtbarkeit ohne Struktur erzeugt Lärm. Sie verschiebt die Verantwortung vom S
 will, muss selbst sortieren, bewerten und einordnen. Kontrolle wird so privatisiert, während die Architektur unverändert
 bleibt.
 
-Das Politische Profil erkennt dieses Problem als strukturelles Defizit. Es versteht Transparenz nicht als
+Der hier vorgestellte Ansatz erkennt dieses Problem als strukturelles Defizit. Er versteht Transparenz nicht als
 Veröffentlichungspflicht, sondern als gezielte Sichtbarmachung relevanter Wirkzusammenhänge. Nicht alles muss sichtbar
 sein. Entscheidend ist, was sichtbar wird und für wen.
 
@@ -74,7 +74,7 @@ die Architektur entscheidet, wie auf diese Wirkungen reagiert wird. Transparenz 
 überprüft. In der Praxis funktioniert diese Logik nur begrenzt. Öffentlichkeit reagiert selektiv, emotional und zeitlich
 begrenzt. Sie eignet sich zur Skandalisierung, nicht zur kontinuierlichen Steuerung.
 
-Das Politische Profil verlagert Kontrolle daher bewusst weg von der permanenten Öffentlichkeit hin zu strukturell
+Diese Architektur verlagert Kontrolle daher bewusst weg von der permanenten Öffentlichkeit hin zu strukturell
 verankerten Rückkopplungen. Öffentlichkeit bleibt wichtig, aber sie ersetzt keine systemische Kontrolle. Sie ergänzt
 sie.
 

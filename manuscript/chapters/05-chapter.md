@@ -25,7 +25,7 @@ Diese Unterscheidung ist entscheidend. Überwachung greift in individuelle Freih
 Verlässlichkeit. Wo diese Ebenen vermischt werden, entsteht Widerstand, der sich nicht gegen Machtbegrenzung richtet,
 sondern gegen Eingriffe in Autonomie.
 
-Das Politische Profil trennt diese Ebenen bewusst. Kontrolle bezieht sich auf Entscheidungswege, Zuständigkeiten und
+Der vorliegende Entwurf trennt diese Ebenen bewusst. Kontrolle bezieht sich auf Entscheidungswege, Zuständigkeiten und
 Wirkungen. Sie macht sichtbar, ob ein System das leistet, was es leisten soll. Sie benötigt keine permanente Beobachtung
 von Individuen.
 
@@ -65,8 +65,8 @@ Vertrauen entsteht dort, wo Kontrolle verlässlich funktioniert. Nicht weil stä
 Möglichkeit des Eingriffs besteht. Wo klar ist, dass Macht begrenzt und überprüfbar ist, kann Vertrauen wachsen, ohne
 blind zu sein.
 
-Das Politische Profil versteht Vertrauen daher nicht als moralische Haltung, sondern als Systemeffekt. Es entsteht aus
-der Erfahrung verlässlicher Strukturen, nicht aus Appellen.
+Dieser Rahmen versteht Vertrauen daher nicht als moralische Haltung, sondern als Systemeffekt. Es entsteht aus der
+Erfahrung verlässlicher Strukturen, nicht aus Appellen.
 
 ## Die politische Überforderung durch fehlende Kontrolle
 

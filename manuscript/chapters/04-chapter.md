@@ -25,10 +25,10 @@ Bürokratie ist damit kein Zeichen zu viel vorhandener Struktur, sondern ein Sym
 architektonische Unklarheit durch Verfahren und ersetzt Klarheit durch Absicherung. Je weniger die grundlegende Bauweise
 trägt, desto dichter wird das Regelwerk.
 
-Das Politische Profil unterscheidet deshalb strikt zwischen Struktur und Bürokratie. Struktur beschreibt die tragenden
-Linien eines Systems. Bürokratie entsteht, wenn diese Linien fehlen oder widersprüchlich sind. Ein gut gebautes System
-benötigt weniger Bürokratie, nicht mehr. Es schafft Klarheit darüber, wer wofür verantwortlich ist, und macht
-zusätzliche Absicherung überflüssig.
+Dieser Ansatz unterscheidet deshalb strikt zwischen Struktur und Bürokratie. Struktur beschreibt die tragenden Linien
+eines Systems. Bürokratie entsteht, wenn diese Linien fehlen oder widersprüchlich sind. Ein gut gebautes System benötigt
+weniger Bürokratie, nicht mehr. Es schafft Klarheit darüber, wer wofür verantwortlich ist, und macht zusätzliche
+Absicherung überflüssig.
 
 ## Wenn Struktur fehlt, entsteht informelle Macht
 
@@ -68,9 +68,9 @@ Schlechte Struktur ist starr. Gute Struktur ist beweglich. Sie definiert klare R
 ist. Beliebigkeit hingegen entsteht dort, wo Regeln fehlen oder ständig neu ausgehandelt werden müssen. Sie erzeugt
 Unsicherheit und begünstigt Machtverschiebungen.
 
-Das Politische Profil beschreibt Struktur deshalb als Rahmen, nicht als Fessel. Es schafft Orientierung, ohne
-Entwicklung zu verhindern. Stabilität und Anpassungsfähigkeit sind kein Gegensatz, wenn Architektur bewusst gestaltet
-ist.
+Die hier entwickelte Architektur beschreibt Struktur deshalb als Rahmen, nicht als Fessel. Sie schafft Orientierung,
+ohne Entwicklung zu verhindern. Stabilität und Anpassungsfähigkeit sind kein Gegensatz, wenn Architektur bewusst
+gestaltet ist.
 
 ## Architektur vor Verfahren
 

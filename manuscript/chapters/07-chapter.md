@@ -83,7 +83,7 @@ Vertrauen entsteht nicht durch Rhetorik, sondern durch Verlässlichkeit der Stru
 Eigentümerschaft bedeutet Verantwortung. Wer Eigentümer ist, trägt die Folgen. Diese Verbindung ist im politischen Raum
 oft unterbrochen. Bürger werden als Anspruchsberechtigte adressiert, nicht als Mitverantwortliche.
 
-Das Politische Profil stellt diese Verbindung wieder her. Es koppelt Rechte an Pflichten, Einfluss an Verantwortung.
+Der vorliegende Entwurf stellt diese Verbindung wieder her. Er koppelt Rechte an Pflichten, Einfluss an Verantwortung.
 Eigentümerschaft wird nicht romantisiert, sondern funktional verstanden. Sie ermöglicht Kritik, aber verlangt auch
 Mittragen von Konsequenzen.
 

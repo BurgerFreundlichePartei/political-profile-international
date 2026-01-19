@@ -26,7 +26,7 @@ darüber, **ob** und **wie** politische Ziele überhaupt wirksam werden.
 Ein schlecht gebauter Prozess kann ein gutes Gesetz wirkungslos machen. Ein unklarer Ablauf kann Verantwortung
 verwischen. Eine fehlende Rückkopplung kann Fehlentwicklungen jahrelang unsichtbar halten.
 
-Das Politische Profil korrigiert diesen Irrtum. Es versteht Prozesse nicht als technische Details, sondern als 
+Der vorliegende Ansatz korrigiert diesen Irrtum. Er versteht Prozesse nicht als technische Details, sondern als 
 **zentrale Architekturfrage**. Prozesse sind der Ort, an dem Politik real wird – oder scheitert.
 
 ## Prozesse sind mehr als Abläufe – sie sind Machtverteilung
@@ -77,18 +77,18 @@ schlecht gestaltet sind.
 
 Prozessversagen entsteht häufig durch:
 
-* unklare Zuständigkeiten,
+- unklare Zuständigkeiten,
 
-* fehlende Entscheidungspunkte,
+- fehlende Entscheidungspunkte,
 
-* keine Rückmeldung über Wirkung,
+- keine Rückmeldung über Wirkung,
 
-* parallele Strukturen ohne Koordination,
+- parallele Strukturen ohne Koordination,
 
-* historisch gewachsene Sonderwege.
+- historisch gewachsene Sonderwege.
 
-Diese Faktoren wirken unabhängig von individueller Leistung. Sie sind systemisch. Das Politische Profil setzt deshalb
-nicht auf bessere Menschen, sondern auf **bessere Architektur**. Prozesse müssen so gebaut sein, dass sie auch mit
+Diese Faktoren wirken unabhängig von individueller Leistung. Sie sind systemisch. Dieser Entwurf setzt deshalb nicht auf
+bessere Menschen, sondern auf **bessere Architektur**. Prozesse müssen so gebaut sein, dass sie auch mit
 durchschnittlichen Akteuren zuverlässig funktionieren.
 
 ## Der Unterschied zwischen Regel und Prozess
@@ -96,7 +96,7 @@ durchschnittlichen Akteuren zuverlässig funktionieren.
 Ein weiterer zentraler Punkt ist die Unterscheidung zwischen Regeln und Prozessen. Viele Staaten versuchen,
 Prozessprobleme durch neue Regeln zu lösen. Das führt selten zum Erfolg.
 
-Regeln sagen, _was_ erlaubt oder verboten ist. Prozesse bestimmen, _wie_ etwas geschieht. Ohne passende Prozesse bleiben
+Regeln sagen, *was* erlaubt oder verboten ist. Prozesse bestimmen, *wie* etwas geschieht. Ohne passende Prozesse bleiben
 Regeln abstrakt. Sie erzeugen Papier, aber keine Wirkung.
 
 Das Politische Profil verschiebt den Fokus: Statt immer neue Regeln zu schaffen, wird gefragt, welche Prozesse nötig
@@ -127,8 +127,9 @@ Diese historische Schichtung ist der eigentliche Grund, warum moderne Staaten tr
 Technik wird auf alte Prozesse gesetzt, statt Prozesse neu zu denken. Das Ergebnis ist nicht Effizienz, sondern
 beschleunigte Überforderung.
 
-Das Politische Profil setzt genau hier an. Es akzeptiert historische Realität, aber es ordnet sie neu. Prozesse werden
-nicht ersetzt, sondern **architektonisch rekonstruiert**. Ziel ist nicht Perfektion, sondern Tragfähigkeit.
+Die hier entwickelte Systematik setzt genau hier an. Sie akzeptiert historische Realität, aber sie ordnet sie neu.
+Prozesse werden nicht ersetzt, sondern **architektonisch rekonstruiert**. Ziel ist nicht Perfektion, sondern
+Tragfähigkeit.
 
 ## Der Unterschied zwischen Komplexität und Verwirrung
 
@@ -162,7 +163,7 @@ Ein Nervensystem, das keine Rückmeldungen erhält, kann nicht reagieren. Dassel
 Abläufe enden mit einer Entscheidung – und hören dort auf. Ob diese Entscheidung wirkt, bleibt oft unklar.
 
 Das Politische Profil verankert Rückkopplung als festen Bestandteil jedes relevanten Prozesses. Nicht im Sinne von
-permanenter Evaluation, sondern als strukturierte Frage: _Hat das, was wir tun, die gewünschte Wirkung?_
+permanenter Evaluation, sondern als strukturierte Frage: *Hat das, was wir tun, die gewünschte Wirkung?*
 
 Diese Rückkopplung ist nicht politisch, sondern systemisch. Sie liefert keine Schuldzuweisung, sondern Information. Erst
 dadurch wird Lernen möglich. Prozesse, die nicht lernen, wiederholen Fehler – unabhängig von guten Absichten.
@@ -184,7 +185,7 @@ Ein stabiler Prozess darf nicht von politischen Mehrheiten abhängen. Wenn sich 
 Unsicherheit. Verwaltung wird vorsichtig, Bürger verlieren Vertrauen.
 
 Das Politische Profil trennt deshalb klar zwischen **politischer Zielsetzung** und **prozessualer Umsetzung**. Politik
-definiert, _was_ erreicht werden soll. Prozesse definieren, _wie_ Entscheidungen umgesetzt werden – unabhängig von
+definiert, *was* erreicht werden soll. Prozesse definieren, *wie* Entscheidungen umgesetzt werden – unabhängig von
 politischer Farbe.
 
 Diese Neutralität ist kein Machtverlust für die Politik, sondern eine Entlastung. Sie ermöglicht politischen Wechsel,
@@ -210,8 +211,8 @@ Schlechte Abläufe verbrauchen Zeit, Geld und Aufmerksamkeit – oft unsichtbar.
 Ein effizienter Prozess spart nicht nur Kosten, sondern reduziert Reibung. Er ermöglicht es, mit vorhandenen Ressourcen
 mehr Wirkung zu erzielen. Das ist besonders relevant in alternden Gesellschaften, in denen Personal knapp wird.
 
-Das Politische Profil setzt deshalb nicht primär auf mehr Mittel, sondern auf **bessere Nutzung**. Prozesse sind der
-Hebel, an dem diese Verbesserung ansetzt.
+Dieser architektonische Rahmen setzt deshalb nicht primär auf mehr Mittel, sondern auf **bessere Nutzung**. Prozesse
+sind der Hebel, an dem diese Verbesserung ansetzt.
 
 ## Prozesse als Ort, an dem der Staat für den Bürger real wird
 
@@ -249,7 +250,7 @@ Zu viel Stabilität führt zu Erstarrung, zu viel Wandel zu Chaos.
 Prozesse sind der Ort, an dem dieser Widerspruch aufgelöst werden kann. Ein gut gebauter Prozess ist stabil in seiner
 Struktur, aber flexibel in seiner Ausführung. Er erlaubt Anpassung, ohne jedes Mal neu erfunden zu werden.
 
-Das Politische Profil nutzt Prozesse genau in diesem Sinne. Reformen setzen nicht an der Oberfläche an, sondern an den
+Der vorliegende Entwurf nutzt Prozesse genau in diesem Sinne. Reformen setzen nicht an der Oberfläche an, sondern an den
 Abläufen. Dadurch wird Wandel leiser, aber nachhaltiger. Der Staat verändert sich, ohne ständig in Ausnahmezustände zu
 verfallen.
 
@@ -288,7 +289,7 @@ Bürger werden entlastet, weil sie wissen, was sie erwartet.
 Diese Entlastung ist kein Komfortgewinn, sondern eine Voraussetzung für langfristige Handlungsfähigkeit. Systeme, die
 permanent überlastet sind, reagieren irgendwann nur noch reflexhaft.
 
-Das Politische Profil zielt auf genau diese Entlastung. Nicht durch Vereinfachung um jeden Preis, sondern durch **klare
+Diese Architektur zielt auf genau diese Entlastung. Nicht durch Vereinfachung um jeden Preis, sondern durch **klare
 Architektur**.
 
 ## Prozesse als Voraussetzung von Reformfähigkeit

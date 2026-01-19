@@ -80,9 +80,8 @@ Das ist richtig – und trotzdem kein Gegenargument.
 Eigentümerschaft bedeutet nicht, dass jeder Bürger ständig alles entscheiden oder verstehen muss. Auch Aktionäre führen
 kein Tagesgeschäft. Verantwortung wird **strukturell**, nicht operativ wahrgenommen.
 
-Das Politische Profil zwingt Bürger nicht zur Dauerbeteiligung. Es gibt ihnen etwas anderes: **die Möglichkeit**,
-Verantwortung wahrzunehmen, wenn sie es wollen oder wenn es notwendig wird. Eigentum ist ein Recht, keine Pflicht zur
-Daueraktivität.
+Dieser Rahmen zwingt Bürger nicht zur Dauerbeteiligung. Er gibt ihnen etwas anderes: **die Möglichkeit**, Verantwortung
+wahrzunehmen, wenn sie es wollen oder wenn es notwendig wird. Eigentum ist ein Recht, keine Pflicht zur Daueraktivität.
 
 Gerade dadurch entsteht Entlastung. Der Bürger muss nicht permanent misstrauisch sein, nicht ständig protestieren, nicht
 jede Entscheidung bekämpfen. Er weiß: Es gibt ein System, das ihm gehört, das prüfbar ist und das notfalls korrigierbar
@@ -160,8 +159,9 @@ Wenn Bürger spüren, dass ihnen ein System gehört, verändert sich ihr Verhäl
 entsteht nicht durch Appelle, sondern durch **Konsequenzbezug**. Eigentümer wissen: Schlechte Entscheidungen fallen auf
 sie zurück – nicht abstrakt, sondern real.
 
-Das Politische Profil nutzt diesen Effekt. Es setzt darauf, dass Eigentümerschaft langfristiges Denken fördert, weil sie
-Folgen sichtbar macht. Kurzfristige Vorteile verlieren an Attraktivität, wenn ihre systemischen Kosten erkennbar werden.
+Die hier beschriebene Architektur nutzt diesen Effekt. Sie setzt darauf, dass Eigentümerschaft langfristiges Denken
+fördert, weil sie Folgen sichtbar macht. Kurzfristige Vorteile verlieren an Attraktivität, wenn ihre systemischen Kosten
+erkennbar werden.
 
 Diese Form von Verantwortung ist leiser als moralische Appelle, aber nachhaltiger. Sie verlangt keine Tugend, sondern
 nur Einsicht. Bürger müssen nicht besser sein – das System zwingt sie nicht dazu. Es macht nur deutlich, dass Stabilität
