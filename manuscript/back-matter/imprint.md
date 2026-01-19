@@ -27,5 +27,5 @@ Alle Marken, Logos und Produktnamen sind Eigentum der jeweiligen Inhaber und die
 
 <figure class="logo">
   <img src="assets/logo/conscious-path-publishing-logo.png" 
-       alt="Conscious Path Publishing Logo (Mandala-Symbol)" />
+       alt="Logo des Verlags Conscious Path Publishing: Kreisförmiges Mandala-Symbol in dunkler Farbe" />
 </figure>

@@ -69,8 +69,8 @@ sondern eine **belastbare Struktur**, die mit wechselnden Ideen umgehen kann.
 ## Architektur denkt in Spannungen, nicht in Lösungen
 
 Ideologien neigen dazu, Widersprüche aufzulösen. Architektur hält sie aus. Freiheit und Sicherheit, Effizienz und
-Gerechtigkeit, Stabilität und Wandel – diese Spannungen lassen sich nicht endgültig entscheiden. Sie müssen **balanciert
-** werden.
+Gerechtigkeit, Stabilität und Wandel – diese Spannungen lassen sich nicht endgültig entscheiden. Sie müssen
+**balanciert** werden.
 
 Das Politische Profil ist deshalb kein Entweder-oder-Modell. Es akzeptiert Spannungen als Normalzustand. Architektur
 bedeutet hier, Räume zu schaffen, in denen diese Spannungen produktiv wirken können, ohne das System zu zerreißen.
