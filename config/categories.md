@@ -2,28 +2,31 @@
 
 ## ebook
 
+- Kindle-Bücher › Politik & Sozialwissenschaften › Politik & Regierung › Ideologien & Lehren › Demokratie 
+- Kindle-Bücher › Politik & Sozialwissenschaften › Politik & Regierung › Politikwissenschaft › Geschichte & Theorie 
+- Kindle-Bücher › Politik & Sozialwissenschaften › Politik & Regierung › Öffentliche Angelegenheiten & Politik › Öffentliche Politik 
+
 ## paperback
 
 ## hardcover
-
 
 ## Empfohlene Kategorien
 
 ### Primär (höchste Relevanz)
 
-| Kategorie | Begründung |
-|-----------|------------|
-| **Politische Philosophie** | Kernthema des Buches |
-| **Politikwissenschaft / Politische Theorie** | Akademische Zielgruppe |
-| **Staatstheorie / Staatslehre** | Direkt passend zum Inhalt |
+| Kategorie                                    | Begründung                |
+|----------------------------------------------|---------------------------|
+| **Politische Philosophie**                   | Kernthema des Buches      |
+| **Politikwissenschaft / Politische Theorie** | Akademische Zielgruppe    |
+| **Staatstheorie / Staatslehre**              | Direkt passend zum Inhalt |
 
 ### Sekundär (erweiterte Reichweite)
 
-| Kategorie | Begründung |
-|-----------|------------|
-| **Verwaltung & Bürokratie** | Prozesse, Governance-Architektur |
-| **Demokratie & Demokratisierung** | Eigentümerschaft, Bürgerbeteiligung |
-| **Gesellschaft & Politik / Allgemein** | Breitere Sichtbarkeit |
+| Kategorie                              | Begründung                          |
+|----------------------------------------|-------------------------------------|
+| **Verwaltung & Bürokratie**            | Prozesse, Governance-Architektur    |
+| **Demokratie & Demokratisierung**      | Eigentümerschaft, Bürgerbeteiligung |
+| **Gesellschaft & Politik / Allgemein** | Breitere Sichtbarkeit               |
 
 ---
 
