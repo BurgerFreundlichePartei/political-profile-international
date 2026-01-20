@@ -95,7 +95,7 @@ Abschlussversprechen.
 * **Alle Kapitel haben jetzt eine eindeutige Rolle.**
 * **Keine Rolle doppelt.**
 * **Kein Kapitel muss mehr „alles erklären“.**
-* Damit ist Band 4 **architektonisch geschlossen**.
+* Damit ist das Buch **architektonisch geschlossen**.
 
 ---
 

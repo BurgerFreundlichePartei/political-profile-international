@@ -1,8 +1,7 @@
 **Asterios Raptis** ist Autor und Systemdenker politischer Ordnung.
 
-Seit über fünfzehn Jahren arbeitet er an dem Konzept des *Politischen Profils* – einem ideologiefreien Architekturmodell
-zur Analyse, Bewertung und Gestaltung staatlicher Systeme. Sein Fokus liegt nicht auf Parteipolitik oder Programmen,
-sondern auf den strukturellen Voraussetzungen von Stabilität, Verantwortung und Lernfähigkeit.
+Seine Arbeit kreist um eine Frage, die im 21. Jahrhundert unausweichlich wird: *Wie bleibt politische Ordnung tragfähig,
+wenn sie auf lernfähige Architektur statt auf Ideologie baut?*
 
-In der Buchreihe **Das Politische Profil – Die Architektur der Freiheit** beschreibt er den Staat als gebautes,
-lernfähiges System und verbindet politische Theorie mit systemischem und architektonischem Denken.
+Er ist Gründer der Partei **BFREI**, deren Ziel die Rückführung des Staates auf seine ursprüngliche Aufgabe ist:
+Dienstleister statt Vormund, Struktur statt Herrschaft.
