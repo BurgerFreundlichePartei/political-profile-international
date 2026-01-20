@@ -6,6 +6,7 @@ from pathlib import Path
 import subprocess
 from unittest.mock import patch, ANY
 from scripts.full_export_book import prepare_output_folder, run_script, compile_book
+from scripts.enums.book_type import BookType
 
 TEST_OUTPUT_DIR = "test_output"
 TEST_BACKUP_DIR = "test_output_backup"
@@ -103,7 +104,7 @@ def test_compile_book(mock_run):
     Path("tests/fixtures/metadata.yaml").write_text("title: Test\n", encoding="utf-8")
 
     # Act
-    compile_book("pdf", ["chapters"])
+    compile_book("pdf", ["chapters"], BookType.EBOOK)
 
     # Assert
     mock_run.assert_called()
