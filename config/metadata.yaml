@@ -57,7 +57,6 @@ cover_image: "assets/covers/cover.png"
 css:
   - config/base-styles.css
   - config/table-styles.css
-  - config/toc-styles.css
 output_formats:
   - pdf
   - epub
