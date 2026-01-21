@@ -60,16 +60,16 @@ Es bietet das, was ihnen fehlt – eine **konstruierbare, modulare, anpassbare A
 | **Rawls**          | Gerechtigkeitsmodell       | konsistent             | schwer implementierbar | Prinzipien für Fairnessmodule           |
 | **Hayek**          | Marktordnungslogik         | Effizienz              | wenig Governance       | zeigt Wert spontaner Ordnungen          |
 | **Ostrom**         | lokale Governance          | empirisch              | nicht staatsweit       | liefert dezentrale Mechaniken           |
-| **Lee Kuan Yew**°  | Modernisierungsarchitektur | Effizienz              | autoritätslastig       | Beispiel für funktionale Umsetzung      |
+| **Lee Kuan Yew** * | Modernisierungsarchitektur | Effizienz              | autoritätslastig       | Beispiel für funktionale Umsetzung      |
 | **Taleb**          | Risikoarchitektur          | Systemrobustheit       | keine Politik          | Grundlagen für Resilienz                |
 
-° Lee Kuan Yew war kein Theoretiker im akademischen Sinne, sondern ein politischer Praktiker. Seine Aufnahme in diese
-Übersicht erfolgt bewusst, um zu zeigen, dass auch implementierte Architektur – nicht nur gedachte – Bausteine liefern
-kann.
+> \* _Lee Kuan Yew_ war kein Theoretiker im akademischen Sinne, sondern ein politischer Praktiker. Seine Aufnahme in
+diese Übersicht erfolgt bewusst, um zu zeigen, dass auch implementierte Architektur – nicht nur gedachte – Bausteine
+liefern kann.
 
-Diese Denker liefern **Bausteine**, aber kein vollständiges **Konstruktionshandbuch** für Staaten des 21.
+Diese Denker liefern **Bausteine**, aber kein vollständiges **Konstruktionshandbuch** für die Staaten des 21.
 Jahrhunderts.  
-Dieses Werk beginnt dort, wo ihre Modelle enden.
+Dieses Werk setzt dort an, wo ihre Modelle enden.
 
 ### Die Rolle eines modernen politischen Architekten
 

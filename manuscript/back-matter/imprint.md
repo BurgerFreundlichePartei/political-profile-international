@@ -5,7 +5,7 @@
 **Verlag (Imprint):** Conscious Path Publishing  
 **Ausgabe:** Erste Auflage (2026)
 
-© 2025 Asterios Raptis. Alle Rechte vorbehalten.  
+© 2026 Asterios Raptis. Alle Rechte vorbehalten.  
 Kein Teil dieses Buches darf in irgendeiner Form oder mit irgendwelchen Mitteln **elektronisch oder mechanisch,
 fotokopiert, gespeichert, übertragen oder reproduziert** werden, ohne vorherige schriftliche Genehmigung des Autors,
 außer in Form kurzer Zitate für Rezensionen oder wissenschaftliche Arbeiten.

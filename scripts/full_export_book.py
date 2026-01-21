@@ -20,7 +20,7 @@ from scripts.validate_format import (
 # Replace with your data
 DEFAULT_METADATA = """title: 'Das Politische Profil – Wie Staaten tragfähig gebaut werden'
 author: 'Asterios Raptis'
-date: '2025'
+date: '2026'
 lang: 'de'
 """
 
@@ -251,7 +251,7 @@ def ensure_metadata_file():
             f.write(
                 'title: "Das Politische Profil – Wie Staaten tragfähig gebaut werden"\n'
                 'author: "Asterios Raptis"\n'
-                'date: "2025"\n'
+                'date: "2026"\n'
                 'lang: "de"\n'
             )
 
