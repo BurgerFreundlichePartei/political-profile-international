@@ -1,0 +1,66 @@
+/* ========================================
+   TABLE STYLESHEET FOR PANDOC-GENERATED EPUB
+   Mit starkem Header-Hervorhebung: weiß-grauer Hintergrund + obere/untere Linie
+   Optimiert für KDP Paperback/Hardcover
+   ======================================== */
+
+table {
+    margin: 1.2em auto;
+    width: 100%;
+    border-collapse: collapse;
+    page-break-inside: auto; /* Erlaubt Seitenumbruch, wenn nötig */
+    font-size: 0.85em;
+    font-family: "Georgia", "Times New Roman", serif;
+}
+
+/* === HEADER-ZEILE (thead th) === */
+thead th {
+    /* Hellgrauer, fast weißer Hintergrund */
+    background-color: #f8f8f8 !important;
+
+    /* Obere und untere Trennlinie (stärker als Zellränder) */
+    border-top: 2px solid #000000 !important;
+    border-bottom: 2px solid #000000 !important;
+    border-left: 1px solid #000000 !important;
+    border-right: 1px solid #000000 !important;
+
+    /* Textformatierung */
+    color: #000000 !important;
+    font-weight: bold !important;
+    text-align: left !important;
+    vertical-align: middle !important;
+    padding: 0.6em 0.5em !important;
+    line-height: 1.3;
+}
+
+/* === DATENZELLEN (tbody td) === */
+tbody td {
+    border-top: 1px solid #000000;    /* Obere Linie pro Zeile */
+    border-bottom: 1px solid #000000; /* Sehr helle untere Linie */
+    border-left: 1px solid #000000;
+    border-right: 1px solid #000000;
+    padding: 0.4em 0.5em;
+    vertical-align: top;
+    text-align: left;
+    line-height: 1.4;
+}
+
+/* Optional: Alternative Zeilenfarben (sehr dezent für Druck)*/
+tbody tr:nth-child(even) {
+    background-color: #cccccc7a;
+}
+
+/* Optional: Erste Spalte fett, falls Überschrift-Spalte*/
+tbody td:first-child {
+    font-weight: bold;
+    white-space: nowrap;
+    border-top: 1px solid #000000;    /* Obere Linie pro Zeile */
+    border-bottom: 1px solid #000000; /* Sehr helle untere Linie */
+    border-left: 1px solid #000000;
+}
+
+/* === RÄNDER DER GANZEN TABELLE (optional) === */
+/* Wenn du willst, dass die ganze Tabelle einen Rahmen hat */
+table {
+    border: 2px solid #000000;
+}

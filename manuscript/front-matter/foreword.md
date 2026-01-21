@@ -49,19 +49,98 @@ Es bietet das, was ihnen fehlt – eine **konstruierbare, modulare, anpassbare A
 
 ## Politische Architektur im historischen Vergleich
 
-| Denker / Architekt | Art der Architektur        | Stärken                | Grenzen                | Relevanz für modernes Governance-Design |
-|--------------------|----------------------------|------------------------|------------------------|-----------------------------------------|
-| **Platon**         | Idealstaat                 | kohärentes Modell      | unpraktikabel          | zeigt Wert eines Gesamtrahmens          |
-| **Aristoteles**    | Verfassungstypologie       | empirisch              | wenig Prozessdesign    | Grundlage für Systemklassifikation      |
-| **Hobbes**         | Machtarchitektur           | Stabilität             | autoritär              | illustriert Notwendigkeit klarer Rollen |
-| **Locke**          | Rechte-Architektur         | Freiheit               | kein Mechanismus       | Fundament für Bürgerzentrierung         |
-| **Montesquieu**    | Gewaltenteilung            | strukturelle Kontrolle | statisch               | liefert Kontrollprinzipien              |
-| **Marx**           | sozioökonomische Analyse   | Tiefendiagnose         | kein Staatsmodell      | Input für Verteilungsmechaniken         |
-| **Rawls**          | Gerechtigkeitsmodell       | konsistent             | schwer implementierbar | Prinzipien für Fairnessmodule           |
-| **Hayek**          | Marktordnungslogik         | Effizienz              | wenig Governance       | zeigt Wert spontaner Ordnungen          |
-| **Ostrom**         | lokale Governance          | empirisch              | nicht staatsweit       | liefert dezentrale Mechaniken           |
-| **Lee Kuan Yew** * | Modernisierungsarchitektur | Effizienz              | autoritätslastig       | Beispiel für funktionale Umsetzung      |
-| **Taleb**          | Risikoarchitektur          | Systemrobustheit       | keine Politik          | Grundlagen für Resilienz                |
+<!-- Politische Architektur im historischen Vergleich (de, XHTML + &shy;) -->
+<table lang="de">
+  <caption>Politische Archi&shy;tek&shy;tur im histo&shy;rischen Ver&shy;gleich</caption>
+  <thead>
+    <tr>
+      <th scope="col">Denker&nbsp;/ Archi&shy;tekt</th>
+      <th scope="col">Art der Archi&shy;tek&shy;tur</th>
+      <th scope="col">Stär&shy;ken</th>
+      <th scope="col">Gren&shy;zen</th>
+      <th scope="col">Rele&shy;vanz für moder&shy;nes Gover&shy;nance-Design</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row"><strong>Platon</strong></th>
+      <td>Ideal&shy;staat</td>
+      <td>kohä&shy;rentes Modell</td>
+      <td>un&shy;prak&shy;tikabel</td>
+      <td>zeigt Wert eines Gesamt&shy;rahmens</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>Aristoteles</strong></th>
+      <td>Ver&shy;fas&shy;sungs&shy;typo&shy;logie</td>
+      <td>empirisch</td>
+      <td>wenig Pro&shy;zess&shy;design</td>
+      <td>Grund&shy;lage für Sys&shy;tem&shy;klassi&shy;fikation</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>Hobbes</strong></th>
+      <td>Macht&shy;archi&shy;tek&shy;tur</td>
+      <td>Sta&shy;bilität</td>
+      <td>auto&shy;ritär</td>
+      <td>illustriert Not&shy;wendig&shy;keit klarer Rollen</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>Locke</strong></th>
+      <td>Rechte&shy;-Archi&shy;tek&shy;tur</td>
+      <td>Frei&shy;heit</td>
+      <td>kein Mecha&shy;nismus</td>
+      <td>Funda&shy;ment für Bürger&shy;zentrierung</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>Montesquieu</strong></th>
+      <td>Ge&shy;walt&shy;en&shy;teilung</td>
+      <td>struk&shy;turelle Kon&shy;trolle</td>
+      <td>statisch</td>
+      <td>liefert Kon&shy;troll&shy;prin&shy;zipien</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>Marx</strong></th>
+      <td>sozio&shy;ökono&shy;mische Analyse</td>
+      <td>Tiefen&shy;diagnose</td>
+      <td>kein Staats&shy;modell</td>
+      <td>Input für Verteil&shy;ungs&shy;mecha&shy;niken</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>Rawls</strong></th>
+      <td>Gerech&shy;tig&shy;keits&shy;modell</td>
+      <td>kon&shy;sistent</td>
+      <td>schwer imple&shy;men&shy;tierbar</td>
+      <td>Prin&shy;zipien für Fair&shy;ness&shy;module</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>Hayek</strong></th>
+      <td>Markt&shy;ordnungs&shy;logik</td>
+      <td>Effi&shy;zi&shy;enz</td>
+      <td>wenig Gover&shy;nance</td>
+      <td>zeigt Wert spontaner Ord&shy;nungen</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>Ostrom</strong></th>
+      <td>lokale Gover&shy;nance</td>
+      <td>empirisch</td>
+      <td>nicht staats&shy;weit</td>
+      <td>liefert dezen&shy;trale Mecha&shy;niken</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>Lee Kuan Yew * </strong></th>
+      <td>Moderni&shy;sierungs&shy;archi&shy;tek&shy;tur</td>
+      <td>Effi&shy;zi&shy;enz</td>
+      <td>auto&shy;ritäts&shy;lastig</td>
+      <td>Beispiel für funk&shy;tionale Um&shy;setzung</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>Taleb</strong></th>
+      <td>Risiko&shy;archi&shy;tek&shy;tur</td>
+      <td>System&shy;robust&shy;heit</td>
+      <td>keine Politik</td>
+      <td>Grund&shy;lagen für Resi&shy;lienz</td>
+    </tr>
+  </tbody>
+</table>
 
 > \* _Lee Kuan Yew_ war kein Theoretiker im akademischen Sinne, sondern ein politischer Praktiker. Seine Aufnahme in
 diese Übersicht erfolgt bewusst, um zu zeigen, dass auch implementierte Architektur – nicht nur gedachte – Bausteine

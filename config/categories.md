@@ -8,7 +8,15 @@
 
 ## paperback
 
+- Bücher › Politik & Sozialwissenschaften › Politik & Regierung › Politische Ideologien › Demokratie 
+- Bücher › Politik & Sozialwissenschaften › Politik & Regierung › Politikwissenschaft › Geschichte & Theorie 
+- Bücher › Politik & Sozialwissenschaften › Politik & Regierung › Spezielle Themen › Politische Freiheit 
+
 ## hardcover
+
+- Bücher › Politik & Sozialwissenschaften › Politik & Regierung › Politische Ideologien › Demokratie
+- Bücher › Politik & Sozialwissenschaften › Politik & Regierung › Politikwissenschaft › Geschichte & Theorie
+- Bücher › Politik & Sozialwissenschaften › Politik & Regierung › Spezielle Themen › Politische Freiheit
 
 ## Empfohlene Kategorien
 

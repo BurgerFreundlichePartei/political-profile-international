@@ -1,0 +1,155 @@
+/* ========================================
+   BASE STYLESHEET FOR PANDOC-GENERATED EPUB
+   Optimized for KDP Paperback/Hardcover compatibility
+   ======================================== */
+
+/* === TYPOGRAPHY === */
+body {
+    font-family: "Georgia", "Times New Roman", serif; /* Serif für bessere Lesbarkeit im Druck */
+    font-size: 1em; /* Standardgröße für Druck */
+    line-height: 1.4em; /* Etwas enger als 1.6 für KDP */
+    color: #000000;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+}
+
+p {
+    margin: 0 0 0.8em 0; /* Weniger Abstand als 1em */
+    line-height: inherit;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 1.2em 0 0.6em 0; /* Weniger Abstand nach Überschriften */
+    line-height: 1.3;
+    font-weight: bold; /* Verwende standardmäßig bold */
+    color: #000000;
+    page-break-after: avoid;
+    break-after: avoid;
+    page-break-inside: avoid;
+}
+
+h1 {
+    font-size: 1.6em;
+}
+
+h2 {
+    font-size: 1.4em;
+}
+
+h3 {
+    font-size: 1.2em;
+}
+
+h4 {
+    font-size: 1.1em;
+}
+
+/* h5, h6 werden selten verwendet, behalten Standardgröße */
+
+/* Vermeide orphane headings */
+p + h2,
+p + h3,
+p + h4 {
+    page-break-before: avoid;
+    break-before: avoid;
+}
+
+/* === CODE & MONOSPACE === */
+code, pre, tt {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 0.85em; /* Leicht kleiner als der Fließtext */
+    /* Kein Hintergrund für bessere Druckkompatibilität */
+    color: #000000;
+}
+
+pre {
+    padding: 0.5em;
+    margin: 1em 0; /* Abstand vor/nach */
+    overflow-x: auto; /* Horizontaler Scrollbalken bei Bedarf in E-Readern */
+    border: 1px solid #ccc; /* Visuelle Trennung */
+    background-color: #fafafa; /* Leichter Hintergrund, falls unterstützt */
+}
+
+code {
+    padding: 0.1em 0.3em; /* Inlinestil */
+    background-color: #fafafa; /* Leichter Hintergrund */
+    border-radius: 2px; /* Leichte Abrundung */
+}
+
+/* === BLOCKQUOTES === */
+blockquote {
+    margin: 1em 1.5em; /* Abstand links/rechts */
+    padding: 0.5em 1em; /* Innenabstand */
+    border-left: 3px solid #ccc; /* Visuelle Trennung */
+    font-style: italic; /* Kursiv für Zitate */
+    color: #555555; /* Dunkler Grauton */
+}
+
+/* === LISTS === */
+ul, ol {
+    margin: 0.8em 0;
+    padding-left: 1.5em; /* Weniger als 2em für KDP */
+}
+
+li > p {
+    margin-bottom: 0.4em; /* Weniger Abstand innerhalb von Listenelementen */
+}
+
+/* Vermeide Seitenumbrüche innerhalb von Listenelementen */
+li {
+    break-inside: avoid;
+    page-break-inside: avoid;
+}
+
+/* === HYPERLINKS === */
+/* Links sind im gedruckten Buch nicht klickbar, aber sichtbar */
+a {
+    color: #000000; /* Standardfarbe für Druck */
+    text-decoration: underline; /* Unterstrichen für Erkennbarkeit */
+    /* Beachte: URLs werden in KDP nicht automatisch angezeigt */
+}
+
+/* === PAGE BREAKS === */
+.page-break {
+    page-break-before: always;
+    break-before: page;
+}
+
+/* === FIGURES (angepasst aus deinem Original) === */
+figure {
+    display: block;
+    text-align: center;
+    margin: 1em 0; /* Weniger Abstand */
+    page-break-inside: avoid;
+    break-inside: avoid;
+}
+
+figure img,
+p img,
+img[alt] {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 0;
+    float: none;
+    clear: both;
+}
+
+figcaption {
+    color: #333333;
+    font-size: 0.85em; /* Leicht kleiner als der Fließtext */
+    line-height: 1.3em;
+    font-style: italic;
+    text-align: center;
+    margin-top: 0.4em;
+    margin-bottom: 0.5em;
+    padding: 0;
+    background: transparent;
+    border: none;
+}

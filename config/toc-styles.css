@@ -1,0 +1,78 @@
+/* ========================================
+   TABLE OF CONTENTS STYLESHEET FOR PANDOC-GENERATED EPUB
+   ======================================== */
+
+/* === Print Table of Contents === */
+.toc--print,
+#toc { /* Pandoc verwendet oft #toc */
+    break-inside: avoid;
+    page-break-inside: avoid;
+    margin: 1em 0 1.2em 0;
+    font-size: 0.9em; /* Leicht kleinere Schrift für TOC */
+}
+
+.toc--print .toc__title,
+#toc > h1,
+#toc > h2 {
+    font-weight: bold;
+    margin: 0 0 0.5rem 0;
+    font-size: 1.2em;
+}
+
+.toc--print ol,
+.toc--print ul,
+#toc ol,
+#toc ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.toc--print li,
+#toc li {
+    display: flex;
+    align-items: baseline;
+    gap: 0.5rem;
+    line-height: 1.4;
+    flex-wrap: wrap;
+    margin: 0.1rem 0; /* Leichter Abstand zwischen Einträgen */
+}
+
+.toc--print .toc__text,
+#toc a {
+    min-width: 0;
+    text-decoration: none; /* Entferne Underline von TOC-Links */
+    color: #000000; /* Schwarz */
+}
+
+.toc--print .toc__leader,
+#toc .toc-line {
+    flex: 1 1 auto;
+    height: 1px;
+    align-self: center;
+    background-image: repeating-linear-gradient(
+            to right,
+            currentColor 0,
+            currentColor 1px,
+            transparent 1px,
+            transparent 4px /* Anpassung der Punktabstände */
+    );
+    opacity: 0.6;
+    transform: translateY(-0.2em);
+}
+
+.toc--print .toc__page,
+#toc .toc-page {
+    text-align: right;
+    min-width: 2.5ch; /* Weniger Platzbedarf für Seitenzahlen */
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+}
+
+/* Optional: Abschnittsüberschriften im TOC */
+.toc--print .toc__section,
+#toc .toc-section {
+    margin-top: 0.6rem;
+    font-weight: bold;
+    font-style: italic; /* Optional */
+}
