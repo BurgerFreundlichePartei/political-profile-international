@@ -72,9 +72,7 @@ DEFAULT_SECTION_ORDER = [
     "front-matter/foreword.md",
     "front-matter/preface.md",
     "chapters",  # Entire chapters folder
-    "back-matter/epilogue.md",
     "back-matter/glossary.md",
-    "back-matter/appendix.md",
     "back-matter/acknowledgments.md",
     "back-matter/about-the-author.md",
     "back-matter/bibliography.md",
@@ -91,9 +89,7 @@ PAPERBACK_SECTION_ORDER = [
     "front-matter/foreword.md",
     "front-matter/preface.md",
     "chapters",  # Entire chapters folder
-    "back-matter/epilogue.md",
     "back-matter/glossary.md",
-    "back-matter/appendix.md",
     "back-matter/acknowledgments.md",
     "back-matter/about-the-author.md",
     "back-matter/bibliography.md",
